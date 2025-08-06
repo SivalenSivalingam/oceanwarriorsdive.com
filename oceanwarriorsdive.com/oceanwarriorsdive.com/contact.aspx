@@ -14,17 +14,10 @@
             </div>
         </div>
     </section>
-    <!-- //about breadcrumb -->
-    <!-- /contact-section -->
     <section class="w3l-contact-2 py-5" id="contact">
         <div class="container py-lg-5 py-md-4 py-2">
-            <div style="margin: 8px auto; display: block; text-align: center;">
-
-                <!---728x90--->
-
-            </div>
-            <h6 class="sub-hnytitle text-center">Send a Message	</h6>
-            <h3 class="w3l-hnytitle mb-md-5 mb-4 text-center">Contact Us</h3>
+            <h3 class="w3l-hnytitle text-center">Your Experience Starts Here</h3>
+            <h6 class="sub-hnytitle mb-md-5 mb-4 text-center">Please fill in all required information so we can get a better idea of your needs.</h6>
 
             <div class="row">
                 <div class="col-md-6">

@@ -8,10 +8,8 @@
         <div class="container py-lg-5 py-md-4 mt-lg-0 mt-5">
             <div class="py-lg-5 py-4 mt-4">
                 <div class="banner-info-grid mt-lg-5">
-                    <h3 class="mb-4">Dont try to stop the waves, learn to surf</h3>
-                    <p>Lorem ipsum dolor sit amet elit. Provident.
-                        fugit odit? Fugit ipsam. Sed ac ex. Nam mauris velit, ac
-                        cursus quis, leo.</p>
+                    <h3 class="mb-5">Dive In. Level Up.<br/>Live the Ocean Warrior Life.</h3>
+                    <p>From shark diving the legendary Aliwal Shoal to chasing bait balls along South Africa’s Wild Coast at the upcoming Sardine Run – this is your call to adventure.</p>
                         <div class="banner-btns mb-5 pb-lg-4 pb-3">
                             <a class="btn btn-primary btn-style mt-lg-5 mt-4 mr-2" href="#discover"> Discover Now </a>
                             <a class="btn btn-style transparent-btn mt-lg-5 mt-4" href="about.html"> Get Started </a>
@@ -38,13 +36,10 @@
             <div class="container py-lg-5 py-md-4 py-2">
                 <div class="row">
                     <div class="col-lg-6 align-self pr-lg-5">
-                        <h5 class="sub-hnytitle mb-2">Windsurfing</h5>
-                        <h3 class="w3l-hnytitle">Enjoy life, one wave at a time</h3>
-                        <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                            ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet consectetur
-                            adipisicing
-                            elit. Non quae, fugiat consequatur voluptatem ad. ultrices in. Ut eu leo non. Duis sed dolor
-                            et amet illum facere.</p>
+                        <h5 class="sub-hnytitle mb-2">Who are we</h5>
+                        <h3 class="w3l-hnytitle">We are Ocean Warriors</h3>
+                        <p class="mt-4">Bound by the sea, we are a tribe of divers, wave riders, and adventurers shaping the next generation of ocean athletes. We offer unmatched ocean experiences – with purpose, passion, and protection at our core.                             <br /><br />
+Led by world champion lifeguard Julian Taylor, our team of exceptional skippers and dive masters have a combined track record of 50,000+ dives and launches without incident.</p>
                         <a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Read More</a>
                     </div>
                     <div class="col-lg-6 left-wthree-img mt-lg-0 mt-md-5 mt-4">
