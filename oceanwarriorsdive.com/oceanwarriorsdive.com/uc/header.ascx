@@ -39,7 +39,7 @@
         <!-- //top header -->
         <div class="container">
             <nav class="navbar navbar-expand-lg stroke px-0 pt-lg-0">
-                <h1> <a class="navbar-brand" href="index.html">
+                <h1> <a class="navbar-brand" href="/home">
                         <span class="fa fa-anchor" aria-hidden="true"></span> Windsurf
                     </a></h1>
                 <!-- if logo is image enable this   
@@ -64,70 +64,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/services">Services</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#Blog" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Blog <span class="fa fa-angle-down"></span>
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="blog.html">Blog posts</a>
-                                <a class="dropdown-item" href="blog-single.html">Blog single</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#Pages" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Pages <span class="fa fa-angle-down"></span>
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="services.html">Features</a>
-                                <a class="dropdown-item" href="error.html">404 page</a>
-                                <a class="dropdown-item" href="landing-single.html">Landing page</a>
-                            </div>
-                        </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
+                            <a class="nav-link" href="/contact">Contact</a>
                         </li>
                     </ul>
 
-                    <!--/search-right-->
-                    <div class="search-right">
-                        <a href="#search" class="btn btn-style transparent-btn" title="search"><span
-                                class="fa fa-search mr-2" aria-hidden="true"></span> Search</a>
-                        <!-- search popup -->
-                        <div id="search" class="pop-overlay">
-                            <div class="popup">
-
-                                <form action="https://p.w3layouts.com/demos_new/template_demo/03-10-2020/windsurf-liberty-demo_Free/1101421368/web/error.html" method="GET" class="search-box">
-                                    <input type="search" placeholder="Enter Keyword" name="search" required="required"
-                                        autofocus="">
-                                    <button type="submit" class="btn"><span class="fa fa-search"
-                                            aria-hidden="true"></span></button>
-                                </form>
-
-                            </div>
-                            <a class="close" href="#close">×</a>
-                        </div>
-                        <!-- /search popup -->
-                    </div>
-                    <!--//search-right-->
-
                 </div>
-                <!-- toggle switch for light and dark theme -->
-                <div class="mobile-position">
-                    <nav class="navigation">
-                        <div class="theme-switch-wrapper">
-                            <label class="theme-switch" for="checkbox">
-                                <input type="checkbox" id="checkbox">
-                                <div class="mode-container">
-                                    <i class="gg-sun"></i>
-                                    <i class="gg-moon"></i>
-                                </div>
-                            </label>
-                        </div>
-                    </nav>
-                </div>
-                <!-- //toggle switch for light and dark theme -->
             </nav>
         </div>
     </header>
