@@ -116,10 +116,10 @@
 
     <!-- all js scripts and files here -->
 
-    <script src="assets/js/theme-change.js"></script><!-- theme switch js (light and dark)-->
+    <script src="/js/theme-change.js"></script><!-- theme switch js (light and dark)-->
 
-    <script src="assets/js/jquery-3.3.1.min.js"></script><!-- default jQuery -->
-    <script src="assets/js/owl.carousel.js"></script>
+    <script src="/js/jquery-3.3.1.min.js"></script><!-- default jQuery -->
+    <script src="/js/owl.carousel.js"></script>
     <!-- script for tesimonials carousel slider -->
     <script>
         $(document).ready(function () {
@@ -147,7 +147,7 @@
         })
     </script>
     <!-- //script for tesimonials carousel slider -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/js/jquery.magnific-popup.min.js"></script>
     <script>
         $(document).ready(function () {
             $('.popup-with-zoom-anim').magnificPopup({
@@ -224,4 +224,4 @@
     <!--//MENU-JS-->
 
     <!-- bootstrap js -->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
