@@ -80,8 +80,7 @@
 
             <div class="midd-footer-28 align-center py-lg-4 py-3 mt-5">
                 <div class="container">
-                    <p class="copy-footer-28 text-center"> &copy; 2020 Windsurf. All Rights Reserved. Design by <a
-                            href="https://w3layouts.com/">W3Layouts</a></p>
+                    <p class="copy-footer-28 text-center"> Copyright © <%=DateTime.Now.Year.ToString() %> Ocean Warriors Dive. All Rights Reserved. Hosted by <a href="https://webox.co.za" target="=_blank" style="color:#67666d">Webox</a></p>
                 </div>
             </div>
         </footer>

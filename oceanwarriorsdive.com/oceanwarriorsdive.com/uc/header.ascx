@@ -9,26 +9,20 @@
                     <div class="top-headers">
                         <ul>
                             <li>
-                                <span class="fa fa-envelope-o"></span><a href="https://p.w3layouts.com/cdn-cgi/l/email-protection#b5d0cdd4d8c5d9d0f5d8d4dcd99bd6dad8" class="mail"><span class="__cf_email__" data-cfemail="f19489909c819d94b19c90989ddf929e9c">[email&#160;protected]</span></a>
-                            </li>
-                            <li>
-                                <a href="#help" class="d-sm-block d-none">Help</a>
+                                <span class="fa fa-envelope-o"></span><a href="mailto:info@oceanwarriorsdive.com" class="mail">info@oceanwarriorsdive.com</a>
                             </li>
                         </ul>
                     </div>
                     <div class="top-headers">
                         <ul>
                             <li>
-                                <a href="#facebook"><span class="fa fa-facebook"></span></a>
+                                <a href="https://www.facebook.com/OceanWarriorsDive"><span class="fa fa-facebook"></span></a>
                             </li>
                             <li>
-                                <a href="#twitter"><span class="fa fa-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#instagram"><span class="fa fa-instagram"></span></a>
+                                <a href="https://www.instagram.com/oceanwarriorsdive/"><span class="fa fa-instagram"></span></a>
                             </li>
                             <li class="mr-0">
-                                <a href="#pinterest"><span class="fa fa-pinterest"></span></a>
+                                <a href="https://wa.me/+27825526112"><span class="fa fa-whatsapp"></span></a>
                             </li>
                         </ul>
                     </div>
