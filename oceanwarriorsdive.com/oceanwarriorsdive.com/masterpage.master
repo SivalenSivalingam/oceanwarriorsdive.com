@@ -6,6 +6,7 @@
 <html>
 <head runat="server">
     <title></title>
+    <link href="/css/style.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="Head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
