@@ -1,7 +1,8 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="masterpage.master.cs" Inherits="masterpage" %>
+<%@ Register Src="~/uc/header.ascx" TagPrefix="uc1" TagName="header" %>
+<%@ Register Src="~/uc/footer.ascx" TagPrefix="uc1" TagName="footer" %>
 
 <!DOCTYPE html>
-
 <html>
 <head runat="server">
     <title></title>
@@ -9,11 +10,13 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
+    <uc1:header runat="server" id="header" />
     <form id="Form" runat="server">
         <div>
             <asp:ContentPlaceHolder ID="Body" runat="server">
             </asp:ContentPlaceHolder>
         </div>
     </form>
+    <uc1:footer runat="server" id="footer" />
 </body>
 </html>

@@ -1,6 +1,6 @@
 ﻿<%@ Application Language="C#" %>
 <%@ Import Namespace="System.Web.Routing" %>
-<%@ Import Namespace="Webox" %>
+<%@ Import Namespace="OceanWarriorsDive" %>
 
 <script runat="server">
 
