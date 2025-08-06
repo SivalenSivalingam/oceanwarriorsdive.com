@@ -1,13 +1,14 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="contact.aspx.cs" Inherits="contact" %>
 
 <asp:Content ID="Head" ContentPlaceHolderID="Head" Runat="Server">
+    <title>Contact - Ocean Warriors Dive</title>
 </asp:Content>
 <asp:Content ID="Body" ContentPlaceHolderID="Body" Runat="Server">
     <section class="w3l-about-breadcrumb">
   <div class="breadcrumb-bg breadcrumb-bg-about py-5">
       <div class="container pt-lg-5 pt-md-3 p-lg-4 pb-md-3 my-lg-5">
           <ul class="breadcrumbs-custom-path mt-5 pt-lg-5 text-center">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="/home">Home</a></li>
               <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> Contact Us </li>
           </ul>
       </div>
@@ -29,24 +30,7 @@
             <img src="assets/images/ab.jpg" class="img-fluid radius-image" alt="">
           </div>
           <div class="contact-right">
-              <form action="https://sendmail.w3layouts.com/submitForm" method="post" class="signin-form">
-                  <div class="input-grids">
-
-                      <input type="text" name="w3lName" id="w3lName" placeholder="Your Name*" class="contact-input"
-                          required="" />
-                      <input type="email" name="w3lSender" id="w3lSender" placeholder="Your Email*"
-                          class="contact-input" required="" />
-                      <input type="text" name="w3lSubect" id="w3lSubect" placeholder="Subject*" class="contact-input"
-                          required="" />
-                      <input type="text" name="w3lWebsite" id="w3lWebsite" placeholder="Website URL*" class="contact-input"
-                          required="" />
-                  </div>
-                  <div class="form-input">
-                      <textarea name="w3lMessage" id="w3lMessage" placeholder="Type your message here*"
-                          required=""></textarea>
-                  </div>
-                  <button class="btn btn-style btn-primary">Send Message</button>
-              </form>
+             
           </div>
       </div>
 

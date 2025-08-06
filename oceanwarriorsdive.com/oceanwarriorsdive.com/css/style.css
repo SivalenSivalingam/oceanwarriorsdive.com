@@ -8317,7 +8317,7 @@ button.bg-dark:focus {
 
 .fixed-top {
   position: fixed;
-  top:40px;
+  top:0px;
   right: 0;
   left: 0;
   z-index: 1030;
@@ -14483,7 +14483,7 @@ input:checked+.mode-container i.gg-moon {
 }
 
 .navbar .navbar-brand img {
-  max-width: 140px;
+  max-width: 300px;
   transition: all 0.5s ease;
 }
 

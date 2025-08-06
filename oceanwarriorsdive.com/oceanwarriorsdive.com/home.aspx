@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="home.aspx.cs" Inherits="home" %>
 
 <asp:Content ID="Head" ContentPlaceHolderID="Head" Runat="Server">
+    <title>Home - Ocean Warriors Dive</title>
 </asp:Content>
 <asp:Content ID="Body" ContentPlaceHolderID="Body" Runat="Server">
     <section id="home" class="w3l-banner py-5">
