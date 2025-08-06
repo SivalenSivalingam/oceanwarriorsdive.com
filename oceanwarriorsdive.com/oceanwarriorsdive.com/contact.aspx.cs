@@ -31,6 +31,8 @@ public partial class contact : System.Web.UI.Page
 
     protected void Submit_Click(object sender, EventArgs e)
     {
+        Status.ForeColor = System.Drawing.Color.Red;
+
         if (!string.IsNullOrEmpty(bName.Text))
         {
             Status.Text = errorMessage;
@@ -114,8 +116,8 @@ public partial class contact : System.Web.UI.Page
             PadiSpecialtyCourse.Checked = false;
             CreateTest();
 
+            Status.ForeColor = System.Drawing.Color.Green;
             Status.Text = successMessage;
-
         }
         catch
         {
