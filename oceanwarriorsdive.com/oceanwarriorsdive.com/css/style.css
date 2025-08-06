@@ -14084,7 +14084,6 @@ button,
 }
 
 button,
-input,
 select,
 label,
 li,
@@ -18683,4 +18682,6 @@ h4.cover-para.w3ls {
   }
 }
 
-/*# sourceMappingURL=style-freedom.css.map */
+.bName {
+    display:none;
+}
