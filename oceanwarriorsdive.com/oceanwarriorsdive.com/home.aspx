@@ -57,9 +57,9 @@
 
                         <div class="grids5-info one-set-b">
                             <div class="blog-info-grid">
-                                <h5><span class="fa fa-clock-o"></span> Sep 01, 2020</h5>
-                                <h4><a href="blog-single.html">Scuba Diving – Explore Beneath the Surface</a></h4>
-                                <p class="mt-3">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life. From the legendary Aliwal Shoal to hidden underwater gems, every dive is a new chapter in your ocean story.</p>
+                                
+                                <h4 class="text-center"><a href="blog-single.html ">Scuba Diving <br />Explore Beneath the Surface</a></h4>
+                                <p class="mt-3 text-center">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life. From the legendary Aliwal Shoal to hidden underwater gems, every dive is a new chapter in your ocean story.</p>
                                 <div class="blog-info mt-3">
                                     <a href="#read">Start Your Dive Adventure&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
                                    
@@ -74,11 +74,11 @@
 
                         <div class="grids5-info two-set-b">
                             <div class="blog-info-grid">
-                                <h5><span class="fa fa-clock-o"></span> Sep 11, 2020</h5>
-                                <h4><a href="blog-single.html">Marine Photography – Capture the Ocean’s Soul</a></h4>
-                                <p class="mt-3">Take your camera below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
+                                
+                                <h4 class="text-center"><a href="blog-single.html">Marine Photography<br /> Capture the Ocean’s Soul</a></h4>
+                                <p class="mt-3 text-center">Take your camera below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
                                 <div class="blog-info mt-3">
-                                    <a href="#read">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+                                    <a href="#read" class="text-center">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
                                   
                                 </div>
                             </div>
@@ -93,11 +93,11 @@
                         </div>
                         <div class="grids5-info three-set-b">
                             <div class="blog-info-grid">
-                                <h5><span class="fa fa-clock-o"></span> Sep 13, 2020</h5>
-                                <h4><a href="blog-single.html">Surfing – Ride the Warrior Waves</a></h4>
-                                <p class="mt-3">Whether you’re starting out or chasing bigger swells, our surf packages combine expert coaching, local wave knowledge, and all the gear you need to master the ocean’s rhythm.</p>
+                             
+                                <h4 class="text-center"><a href="blog-single.html">Surfing <br /> Ride the Warrior Waves</a></h4>
+                                <p class="mt-3 text-center" >Whether you’re starting out or chasing bigger swells, our surf packages combine expert coaching, local wave knowledge, and all the gear you need to master the ocean’s rhythm.</p>
                                 <div class="blog-info mt-3">
-                                    <a href="#read">Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+                                    <a href="#read" class="text-center" >Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
                                  
                                 </div>
                             </div>
@@ -110,9 +110,9 @@
                         </div>
                         <div class="grids5-info four-set-b">
                             <div class="blog-info-grid">
-                                <h5><span class="fa fa-clock-o"></span> Sep 17, 2020</h5>
-                                <h4><a href="blog-single.html">Courses – Learn. Improve. Conquer.</a></h4>
-                                <p class="mt-3">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson — it’s a transformation.</p>
+                             
+                                <h4 class="text-center"><a href="blog-single.html">Courses <br /> Learn. Improve. Conquer.</a></h4>
+                                <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson, it’s a transformation.</p>
                                 <div class="blog-info mt-3">
                                     <a href="#read">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
                                     
@@ -309,29 +309,46 @@ With decades of combined ocean experience, world class certifications and an uns
     </section>
 	
 	<section class="w3l-progressblock py-5">
-        <div class="container py-lg-5 py-md-3">
-            <div class="row">
-                
-                <div class="col-lg-7 left-wthree-img mb-lg-0 mb-4">
-                    <div class="row">
-                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/s3.jpg" alt="" class="img-fluid radius-image">
-                        </div>
-                        <div class="col-lg-6 p-lg-4">
-                            <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 about-right-faq align-self pl-lg-5">
-                    <h5 class="sub-hnytitle mb-2">Surf. Dive. Sleep. Repeat</h5>
-                    <h3 class="w3l-hnytitle">Stay & Play – Adventure with Comfort</h3>
-                    <p class="mt-4">Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke — every day of your journey.</p>
-                    <a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Widdy's Beach Club</a>
-					<a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Highrocks Beach House</a>
+    <div class="container py-lg-5 py-md-3">
+        <div class="row">
+            
+            <div class="col-lg-7 left-wthree-img mb-lg-0 mb-4">
+                <div class="row">
+                    <div class="container" data-aos="fade-up">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="video-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+                    <iframe 
+                        src="https://www.youtube.com/embed/cKisyvB_i2Q?rel=0&autoplay=0&loop=1&playlist=cKisyvB_i2Q" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                    </iframe>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+                    <!--<div class="col-lg-6 p-lg-4">
+                        <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                    </div>-->
+                </div>
+            </div>
+
+            <div class="col-lg-5 about-right-faq align-self pl-lg-5">
+                <h5 class="sub-hnytitle mb-2">Surf. Dive. Sleep. Repeat</h5>
+                <h3 class="w3l-hnytitle">Stay & Play – Adventure with Comfort</h3>
+                <p class="mt-4">Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke — every day of your journey.</p>
+				<div class="d-flex">
+                <a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4 me-2"  >Widdy's Beach Club</a>
+                <a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>
+					</div>
+            </div>
+        </div>
+    </div>
+</section>
+
 	
     <!-- //banner section -->
     <br /><br />
