@@ -14115,8 +14115,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0;
-  padding: 0;
+ margin: -20px;
+    padding: 10px;
   color: var(--heading-color);
   font-family: 'Jost', sans-serif;
 }
@@ -14521,7 +14521,7 @@ input:checked+.mode-container i.gg-moon {
   text-transform: capitalize;
   transition: all 0.5s ease;
   padding: 14px 0;
-  font-size: 1.2em;
+  
   font-weight: 400;
   position: relative;
   color: #fff;
@@ -15501,7 +15501,7 @@ nav ul li a:hover {
   z-index: -1;
 }
 .w3l-stats h3.counter {
-  font-size: 60px;
+  font-size: 35px;
   margin: 25px 0 20px;
   color: #fff;
   font-weight: 500;
@@ -18025,9 +18025,7 @@ h2.title {
   letter-spacing: 0;
 }
 
-.w3l-team-main .team-member p {
-  text-transform: capitalize;
-}
+
 
 .w3l-team-main .team-member:hover a {
   color: var(--primary-color);
@@ -18503,7 +18501,7 @@ h4.cover-para.w3ls {
   padding:0px 60px;
 }
 .grids5-info.one-set-b{
-  background-color:#ffc845;
+  background-color:#28a745;
 }
 .grids5-info.two-set-b{
   background-color: #f85a40;

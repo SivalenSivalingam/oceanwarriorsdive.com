@@ -54,6 +54,15 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/services">Services</a>
                     </li>
+					<li class="nav-item">
+                        <a class="nav-link" href="/sardinerun">Sardine Run</a>
+                    </li>
+					<li class="nav-item">
+                        <a class="nav-link" href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a>
+                    </li>
+					<li class="nav-item">
+                        <a class="nav-link" href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact">Contact</a>
                     </li>
