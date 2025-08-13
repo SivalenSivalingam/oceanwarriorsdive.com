@@ -10,7 +10,7 @@
                         </h6>
                         <ul>
                             <li>
-                                <p><strong>Address</strong> : #135 block, Barnard St. Brooklyn, London 10036, UK</p>
+                                <p><strong>Address</strong> : KwaZulu Natal, South Africa</p>
                             </li>
                             <li>
                                 <p><strong>Phone</strong> : <a href="tel:0827816804">082 781 6804</a></p>
