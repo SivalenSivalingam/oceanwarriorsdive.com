@@ -453,12 +453,18 @@
                             <img src="/images/scuba-diving.jpg" alt="Security Features" class="img-fluid" loading="lazy">
                         </div>
                         </div>
-                        <h3>Enterprise-Grade Security</h3>
-                        <p>Nulla porttitor accumsan tincidunt praesent sapien massa convallis a pellentesque nec egestas non nisi proin eget tortor risus donec sollicitudin.</p>
+                        <h3>Ocean Experience</h3>
+                        <p>Dive into one of the greatest marine spectacles on earth.</p>
                         <ul class="feature-benefits">
-                            <li><i class="bi bi-check-circle-fill"></i>End-to-end encryption</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Advanced access control</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Compliance monitoring</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Scuba diving and surface snorkeling</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Up-close encounters with dolphins, sharks, whales, and seabirds hunting in a feeding frenzy</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Expert dive crews</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Internationally acclaimed marine photographer to capture your moments</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Highly-trained skippers and safety operators</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Convenience launch site</li>
+                            <li><i class="bi bi-check-circle-fill"></i>All Gear Included</li>
+                            <li><i class="bi bi-check-circle-fill"></i>On-Site Medical Team</li>
+                            <li><i class="bi bi-check-circle-fill"></i>6 Full Water Days Weather and Launch Permitting</li>
                         </ul>
                     </div>
                 </div>
@@ -470,12 +476,16 @@
                             <img src="/images/scuba-diving.jpg" alt="Security Features" class="img-fluid" loading="lazy">
                         </div>
                         </div>
-                        <h3>Enterprise-Grade Security</h3>
-                        <p>Nulla porttitor accumsan tincidunt praesent sapien massa convallis a pellentesque nec egestas non nisi proin eget tortor risus donec sollicitudin.</p>
+                        <h3>Accommodation</h3>
+                        <p>Stay at Swell Eco Lodge. Perfectly located, hosted by Cheryl Petzer, on the northern bank of the Mdumbi River, Eastern Cape.</p>
                         <ul class="feature-benefits">
-                            <li><i class="bi bi-check-circle-fill"></i>End-to-end encryption</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Advanced access control</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Compliance monitoring</li>
+                           <li><i class="bi bi-check-circle-fill"></i>Full board, beer and wine</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Free Wifi</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Comfortable en-suite rooms</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Daily oysters and crayfish</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Pool with ocean view in relaxing in the lush coastal setting</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Easy beach access</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Free Airport Transfers via. Umtata</li>
                         </ul>
                     </div>
                 </div>
@@ -487,12 +497,17 @@
                             <img src="/images/scuba-diving.jpg" alt="Security Features" class="img-fluid" loading="lazy">
                         </div>
                         </div>
-                        <h3>Enterprise-Grade Security</h3>
-                        <p>Nulla porttitor accumsan tincidunt praesent sapien massa convallis a pellentesque nec egestas non nisi proin eget tortor risus donec sollicitudin.</p>
+                        <h3>Other Activities</h3>
+                        <p>More Than Just a Dive Trip. Elevate your dive skills with a first-of-it’s-kind expert-led PADI Sardine Run Specialty Certification.</p>
                         <ul class="feature-benefits">
-                            <li><i class="bi bi-check-circle-fill"></i>End-to-end encryption</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Advanced access control</li>
-                            <li><i class="bi bi-check-circle-fill"></i>Compliance monitoring</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Surf lessons</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Guided kayaking tours</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Guided walks and hikes</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Night time fishing</li>
+                            <li><i class="bi bi-check-circle-fill"></i>MTB Routes</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Sunset bonfires</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Indigenous dance shows</li>
+                            <li><i class="bi bi-check-circle-fill"></i>Underwater Photography Workshops – Learn to capture the magic of the ocean.</li>
                         </ul>
                     </div>
                 </div>
