@@ -54,15 +54,34 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/services">Services</a>
                     </li>
-					<li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="/sardinerun">Sardine Run</a>
                     </li>
-					<li class="nav-item">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#Blog" id="navbarDropdown1" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pricing <span class="fa fa-angle-down"></span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                            <a class="dropdown-item" href="/diving-pricing">Diving Pricing</a>
+                            <a class="dropdown-item" href="/surfing-pricing">Surfing Pricing</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#Blog" id="navbarDropdown2" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packages <span class="fa fa-angle-down"></span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                            <a class="dropdown-item" href="/dive-packages">Dive Packages</a>
+                            <a class="dropdown-item" href="/dive-courses">Dive Courses</a>
+                            <a class="dropdown-item" href="/surf-packages">Surf Packages</a>
+                        </div>
+                    </li>
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a>
-                    </li>
-					<li class="nav-item">
+                    </li>-->
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a>
-                    </li>
+                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="/contact">Contact</a>
                     </li>
