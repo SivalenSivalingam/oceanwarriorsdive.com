@@ -315,27 +315,6 @@
                     </div>
                     <!-- end team member -->
                 </div>
-                <br />
-                <div class="row">
-                     <div class="col-md-2">
-                        <img src="/images/ocean-warriors.png" class="img-fluid" />
-                    </div>
-                    <div class="col-md-2">
-                        <img src="/images/padi.png" class="img-fluid"/>
-                    </div>
-                    <div class="col-md-2">
-                        <img src="/images/rae.png" class="img-fluid"/>
-                    </div>
-                    <div class="col-md-2">
-                        <img src="/images/swell-eco-lodge.png" class="img-fluid"/>
-                    </div>
-                    <div class="col-md-2">
-                        <img src="/images/local-is-lekker.png" class="img-fluid"/>
-                    </div>
-                      <div class="col-md-2">
-                        <img src="/images/aliwal-shoal-adventures.png" class="img-fluid"/>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -748,13 +727,33 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                 turpis sodales quis. Integer sit amet mattis quam.
                             </p>
                         </div>
-                        <form action="#" method="post" class="subscribe-wthree pt-2 mt-5">
-                            <div class="d-md-flex flex-wrap subscribe-wthree-field">
-                                <input class="form-control" type="email" placeholder="Enter your email..." name="email"
-                                    required="">
-                                <button class="btn btn-style btn-primary" type="submit">Subscribe</button>
+                        <div class="d-md-flex flex-wrap subscribe-wthree-field">
+                            <div class="input-group">
+                                <asp:TextBox runat="server" ID="EmailAddress" class="form-control" type="email" placeholder="Enter your email..." name="email"></asp:TextBox>
+                                <asp:Button runat="server" ID="Subscribe" Text="Subscribe" OnClick="Subscribe_Click" class="btn btn-primary"/>
                             </div>
-                        </form>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="row m-4">
+                    <div class="col-md-2">
+                        <img src="/images/ocean-warriors.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/padi.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/rae.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/swell-eco-lodge.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/local-is-lekker.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/aliwal-shoal-adventures.png" class="img-fluid" />
                     </div>
                 </div>
             </div>

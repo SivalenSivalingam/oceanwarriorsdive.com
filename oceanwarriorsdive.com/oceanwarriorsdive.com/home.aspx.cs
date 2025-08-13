@@ -11,4 +11,9 @@ public partial class home : System.Web.UI.Page
     {
 
     }
+
+    protected void Subscribe_Click(object sender, EventArgs e)
+    {
+
+    }
 }
