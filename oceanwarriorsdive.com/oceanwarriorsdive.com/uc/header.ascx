@@ -76,12 +76,15 @@
                             <a class="dropdown-item" href="/surf-packages">Surf Packages</a>
                         </div>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a>
-                    </li>-->
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a>
-                    </li>-->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#Blog" id="navbarDropdown3" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beach Accommodation <span class="fa fa-angle-down"></span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                            <a class="dropdown-item" href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a>
+                            <a class="dropdown-item" href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a>
+                        </div>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact">Contact</a>
                     </li>
