@@ -14115,8 +14115,8 @@ h3,
 h4,
 h5,
 h6 {
- margin: -20px;
-    padding: 10px;
+ margin: 0px;
+    padding: 0px;
   color: var(--heading-color);
   font-family: 'Jost', sans-serif;
 }

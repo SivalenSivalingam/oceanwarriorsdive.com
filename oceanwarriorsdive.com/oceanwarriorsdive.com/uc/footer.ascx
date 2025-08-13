@@ -5,16 +5,18 @@
             <div class="container py-lg-3">
                 <div class="row footer-top-28">
                     <div class="col-lg-6 col-md-5 footer-list-28 mt-5">
-                        <h6 class="footer-title-28">Contact information</h6>
+                        <h6 class="footer-title-28">
+                            <img src="/images/logo.png" class="img-fluid" style="width:80%;" />
+                        </h6>
                         <ul>
                             <li>
                                 <p><strong>Address</strong> : #135 block, Barnard St. Brooklyn, London 10036, UK</p>
                             </li>
                             <li>
-                                <p><strong>Phone</strong> : <a href="tel:+(12)234-11-24">+(12)234-11-24</a></p>
+                                <p><strong>Phone</strong> : <a href="tel:0827816804">082 781 6804</a></p>
                             </li>
                             <li>
-                                <p><strong>Email</strong> : <a href="https://p.w3layouts.com/cdn-cgi/l/email-protection#a7c2dfc6cad7cbc2e7cac6cecb89c4c8ca"><span class="__cf_email__" data-cfemail="1f7a677e726f737a5f727e7673317c7072">[email&#160;protected]</span></a></p>
+                                <p><strong>Email</strong> : <a href="mailto:info@oceanwarriorsdive.com">info@oceanwarriorsdive.com</a></p>
                             </li>
                         </ul>
 
@@ -48,19 +50,18 @@
                             <div class="col-sm-4 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Company</h6>
                                 <ul>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="blog.html">Blog Posts</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="#pricing">Pricing</a></li>
+                                    <li><a href="/about">About Us</a></li>
+                                    <li><a href="/services">Services</a></li>
+                                    <li><a href="/contact">Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Quick Links</h6>
                                 <ul>
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="#signup">Create account</a></li>
-                                    <li><a href="#learn">Care Center</a></li>
-                                    <li><a href="#feedback">Site Feedack</a></li>
+                                    <li><a href="/about">What we do</a></li>
+                                    <li><a href="/home#team">Meet the team</a></li>
+                                    <li><a href="/sardinerun">Sardine Run</a></li>
+                                    <li><a href="/contact">Get in Touch</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-4 footer-list-28 mt-5">

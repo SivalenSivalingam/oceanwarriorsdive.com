@@ -1,133 +1,160 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="home.aspx.cs" Inherits="home" %>
 
-<asp:Content ID="Head" ContentPlaceHolderID="Head" Runat="Server">
+<asp:Content ID="Head" ContentPlaceHolderID="Head" runat="Server">
     <title>Home - Ocean Warriors Dive</title>
 </asp:Content>
-<asp:Content ID="Body" ContentPlaceHolderID="Body" Runat="Server">
+<asp:Content ID="Body" ContentPlaceHolderID="Body" runat="Server">
     <section id="home" class="w3l-banner py-5">
         <div class="container py-lg-5 py-md-4 mt-lg-0 mt-5">
             <div class="py-lg-5 py-4 mt-4">
-                
             </div>
         </div>
     </section>
 
-	<br /><br />
-	<section>
-	<div class="w3l-grids-block-5 ">
-        <!-- grids block 5 -->
-        <div id="grids5-block" class="">
-            <div class="container-flid">
-                <h4 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Your Ocean Adventure Starts Here</b><br /></h4>
-				<h5 class="text-center">From shark diving the legendary Aliwal Shoal to chasing bait balls during the adrenaline fueled <br />Sardine Run along South Africa’s untamed Wild Coast this is your call to adventure.<br /><br />Based in the vibrant coastal town of Umkomaas, KwaZulu-Natal, <br /> Ocean Warriors Dive offers world-class ocean experiences for every skill level.<br /><br />Join us for PADI scuba diving courses, marine photography workshops and surfing lessons or<br /> simply soak in the view from our Beach House pool after a thrilling shark or reef dive.<br /><br />And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br /> A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br /><br />Think we’re exaggerating? Dive into our gallery and see what you’re missing.
+    <br />
+    <br />
+    <section>
+        <div class="w3l-grids-block-5 ">
+            <!-- grids block 5 -->
+            <div id="grids5-block" class="">
+                <div class="container-flid">
+                    <h4 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Your Ocean Adventure Starts Here</b><br />
+                    </h4>
+                    <h5 class="text-center">From shark diving the legendary Aliwal Shoal to chasing bait balls during the adrenaline fueled
+                        <br />
+                        Sardine Run along South Africa’s untamed Wild Coast this is your call to adventure.<br />
+                        <br />
+                        Based in the vibrant coastal town of Umkomaas, KwaZulu-Natal,
+                        <br />
+                        Ocean Warriors Dive offers world-class ocean experiences for every skill level.<br />
+                        <br />
+                        Join us for PADI scuba diving courses, marine photography workshops and surfing lessons or<br />
+                        simply soak in the view from our Beach House pool after a thrilling shark or reef dive.<br />
+                        <br />
+                        And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
+                        A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br />
+                        <br />
+                        Think we’re exaggerating? Dive into our gallery and see what you’re missing.
 
 
-</h5>
-				
-				<section class="w3l-progressblock py-5">
-        <div class="container py-lg-5 py-md-3">
-            <div class="row">
-                
-                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
-                    <div class="row">
-                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/ocean-warriors1.jpg" alt="" class="img-fluid radius-image">
+                    </h5>
+
+                    <section class="w3l-progressblock py-5">
+                        <div class="container py-lg-5 py-md-3">
+                            <div class="row">
+
+                                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
+                                    <div class="row">
+                                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
+                                            <img src="/images/ocean-warriors1.jpg" alt="" class="img-fluid radius-image">
+                                        </div>
+                                        <div class="col-lg-6 p-lg-4">
+                                            <img src="/images/ocean-warriors2.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
+                                    <div class="row">
+                                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
+                                            <img src="/images/ocean-warriors3.jpg" alt="" class="img-fluid radius-image">
+                                        </div>
+                                        <div class="col-lg-6 p-lg-4">
+                                            <img src="/images/ocean-warriors4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-6 p-lg-4">
-                            <img src="/images/ocean-warriors2.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                    </section>
+                    <br />
+                    <br />
+                    <div class="row no-gutters">
+                        <div class="col-lg-6 m-blog-left">
+
+                            <div class="grids5-info one-set-b">
+                                <div class="blog-info-grid">
+
+                                    <h4 class="text-center"><a href="blog-single.html ">Scuba Diving
+                                        <br />
+                                        Explore Beneath the Surface</a></h4>
+                                    <p class="mt-3 text-center">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life. From the legendary Aliwal Shoal to hidden underwater gems, every dive is a new chapter in your ocean story.</p>
+                                    <div class="blog-info mt-3">
+                                        <a href="#read">Start Your Dive Adventure&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grids5-info-img">
+                                <a href="blog-single.html">
+                                    <img src="/images/scuba-diving.jpg" alt="" class="img-fluid" /></a>
+                            </div>
                         </div>
-                    </div>
-                </div>
-              <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
-                    <div class="row">
-                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/ocean-warriors3.jpg" alt="" class="img-fluid radius-image">
+                        <div class="col-lg-6 m-blog-left">
+
+                            <div class="grids5-info two-set-b">
+                                <div class="blog-info-grid">
+
+                                    <h4 class="text-center"><a href="blog-single.html">Marine Photography<br />
+                                        Capture the Ocean’s Soul</a></h4>
+                                    <p class="mt-3 text-center">Take your camera below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
+                                    <div class="blog-info mt-3">
+                                        <a href="#read" class="text-center">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="grids5-info-img">
+                                <a href="blog-single.html">
+                                    <img src="/images/marine-photography.jpg" alt="" class="img-fluid" /></a>
+                            </div>
                         </div>
-                        <div class="col-lg-6 p-lg-4">
-                            <img src="/images/ocean-warriors4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                        <div class="col-lg-6 m-blog-right">
+                            <div class="grids5-info-img">
+                                <a href="blog-single.html">
+                                    <img src="/images/surfing.jpg" alt="" class="img-fluid" /></a>
+                            </div>
+                            <div class="grids5-info three-set-b">
+                                <div class="blog-info-grid">
+
+                                    <h4 class="text-center"><a href="blog-single.html">Surfing
+                                        <br />
+                                        Ride the Warrior Waves</a></h4>
+                                    <p class="mt-3 text-center">Whether you’re starting out or chasing bigger swells, our surf packages combine expert coaching, local wave knowledge, and all the gear you need to master the ocean’s rhythm.</p>
+                                    <div class="blog-info mt-3">
+                                        <a href="#read" class="text-center">Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-6 m-blog-right">
+                            <div class="grids5-info-img">
+                                <a href="blog-single.html">
+                                    <img src="/images/courses.jpg" alt="" class="img-fluid" /></a>
+                            </div>
+                            <div class="grids5-info four-set-b">
+                                <div class="blog-info-grid">
+
+                                    <h4 class="text-center"><a href="blog-single.html">Courses
+                                        <br />
+                                        Learn. Improve. Conquer.</a></h4>
+                                    <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson, it’s a transformation.</p>
+                                    <div class="blog-info mt-3">
+                                        <a href="#read">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-				<br /><br />
-                <div class="row no-gutters">
-                    <div class="col-lg-6 m-blog-left">
 
-                        <div class="grids5-info one-set-b">
-                            <div class="blog-info-grid">
-                                
-                                <h4 class="text-center"><a href="blog-single.html ">Scuba Diving <br />Explore Beneath the Surface</a></h4>
-                                <p class="mt-3 text-center">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life. From the legendary Aliwal Shoal to hidden underwater gems, every dive is a new chapter in your ocean story.</p>
-                                <div class="blog-info mt-3">
-                                    <a href="#read">Start Your Dive Adventure&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                        <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/scuba-diving.jpg" alt="" class="img-fluid" /></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 m-blog-left">
-
-                        <div class="grids5-info two-set-b">
-                            <div class="blog-info-grid">
-                                
-                                <h4 class="text-center"><a href="blog-single.html">Marine Photography<br /> Capture the Ocean’s Soul</a></h4>
-                                <p class="mt-3 text-center">Take your camera below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
-                                <div class="blog-info mt-3">
-                                    <a href="#read" class="text-center">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
-                                  
-                                </div>
-                            </div>
-                        </div>
-                        <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/marine-photography.jpg" alt="" class="img-fluid" /></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 m-blog-right">
-                        <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/surfing.jpg" alt="" class="img-fluid" /></a>
-                        </div>
-                        <div class="grids5-info three-set-b">
-                            <div class="blog-info-grid">
-                             
-                                <h4 class="text-center"><a href="blog-single.html">Surfing <br /> Ride the Warrior Waves</a></h4>
-                                <p class="mt-3 text-center" >Whether you’re starting out or chasing bigger swells, our surf packages combine expert coaching, local wave knowledge, and all the gear you need to master the ocean’s rhythm.</p>
-                                <div class="blog-info mt-3">
-                                    <a href="#read" class="text-center" >Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
-                                 
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 m-blog-right">
-                        <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/courses.jpg" alt="" class="img-fluid" /></a>
-                        </div>
-                        <div class="grids5-info four-set-b">
-                            <div class="blog-info-grid">
-                             
-                                <h4 class="text-center"><a href="blog-single.html">Courses <br /> Learn. Improve. Conquer.</a></h4>
-                                <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson, it’s a transformation.</p>
-                                <div class="blog-info mt-3">
-                                    <a href="#read">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
-                                    
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-	</section>
-	
-	 <section class="w3l-progressblock py-5" id="services">
+    <section class="w3l-progressblock py-5" id="services">
         <div class="container py-lg-5 py-md-3">
             <div class="row">
                 <div class="col-lg-5 about-right-faq align-self pr-lg-5">
@@ -149,212 +176,253 @@
             </div>
         </div>
     </section>
-	
-	<section class="w3l-team-main" id="team">
-  <div class="team py-5">
-      <div class="container py-lg-5">
-	  <div style="margin: 8px auto; display: block; text-align:center;">
 
-<!---728x90--->
- 
-</div>
-        <h5 class="sub-hnytitle mb-2 text-center">Experts Who Live and Breathe the Ocean</h5>
-        <h3 class="w3l-hnytitle mb-5 text-center">Meet Our Team Of Ocean Warriors</h3>
-		  <p class="text-center">Your safety, enjoyment, and unforgettable memories are our top priority.<br />
-With decades of combined ocean experience, world class certifications and an unshakable passion for the sea, our crew isn’t just guiding your adventure they’re living it alongside you.
-		  <br /><br />
-		  In partnership with the respected father son duo Emil and Travis Pirzenthal of Aliwal Shoal Adventures and the internationally acclaimed marine photographer and PADI Dive Instructor Rae du Plessis, Ocean Warriors offers unmatched expertise both above and below the surface.<br /><br />
-		  When you join us, you’re not just booking a trip you’re putting your trust in professionals who have dedicated their lives to mastering the ocean.
-		  </p>
-		<div style="margin: 8px auto; display: block; text-align:center;">
+    <section class="w3l-team-main" id="team">
+        <div class="team py-5">
+            <div class="container py-lg-5">
+                <div style="margin: 8px auto; display: block; text-align: center;">
 
-<!---728x90--->
- 
-</div>
-          <div class="row team-row mt-md-5 mt-4">
-              <div class="col-lg-3 col-6 team-wrap">
-                  <div class="team-member text-center">
-                      <div class="team-img">
-                          <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Julian Taylor</a>
-					  <p><em>Ocean Warrior Leader CEO, International Lifeguard & Skipper</em><br /><br />
-					  A seasoned ocean professional with international lifeguard credentials, Julian leads every expedition with precision, safety, and a deep respect for the sea.</p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                             <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                             <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <!---728x90--->
+
+                </div>
+                <h5 class="sub-hnytitle mb-2 text-center">Experts Who Live and Breathe the Ocean</h5>
+                <h3 class="w3l-hnytitle mb-5 text-center">Meet Our Team Of Ocean Warriors</h3>
+                <p class="text-center">
+                    Your safety, enjoyment, and unforgettable memories are our top priority.<br />
+                    With decades of combined ocean experience, world class certifications and an unshakable passion for the sea, our crew isn’t just guiding your adventure they’re living it alongside you.
+		  <br />
+                    <br />
+                    In partnership with the respected father son duo Emil and Travis Pirzenthal of Aliwal Shoal Adventures and the internationally acclaimed marine photographer and PADI Dive Instructor Rae du Plessis, Ocean Warriors offers unmatched expertise both above and below the surface.<br />
+                    <br />
+                    When you join us, you’re not just booking a trip you’re putting your trust in professionals who have dedicated their lives to mastering the ocean.
+                </p>
+                <div style="margin: 8px auto; display: block; text-align: center;">
+
+                    <!---728x90--->
+
+                </div>
+                <div class="row team-row mt-md-5 mt-4">
+                    <div class="col-lg-3 col-6 team-wrap">
+                        <div class="team-member text-center">
+                            <div class="team-img">
+                                <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Julian Taylor</a>
+                            <p>
+                                <em>Ocean Warrior Leader CEO, International Lifeguard & Skipper</em><br />
+                                <br />
+                                A seasoned ocean professional with international lifeguard credentials, Julian leads every expedition with precision, safety, and a deep respect for the sea.
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
+                                        <span class="fa fa-facebook-f"></span>
+                                    </a>
+                                    <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
+                                        <span class="fa fa-twitter"></span>
+                                    </a>
+                                    <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
+                                        <span class="fa fa-instagram"></span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <!-- end team member -->
 
-             
-              <!-- end team member -->
 
-              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
-                  <div class="team-member last text-center">
-                      <div class="team-img">
-                          <img src="/images/rae-marine-photographer.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Rae Du Plessis</a>
-                      <p><em>Ocean Warriors Dive Instructor & Marine Photographer</em><br /><br />
-					  An award-winning marine photographer and experienced dive instructor, Rae helps you see and capture the ocean in ways few ever do.</p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <!-- end team member -->
+
+                    <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
+                        <div class="team-member last text-center">
+                            <div class="team-img">
+                                <img src="/images/rae-marine-photographer.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Rae Du Plessis</a>
+                            <p>
+                                <em>Ocean Warriors Dive Instructor & Marine Photographer</em><br />
+                                <br />
+                                An award-winning marine photographer and experienced dive instructor, Rae helps you see and capture the ocean in ways few ever do.
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/rae.duplessis" target="_blank">
+                                        <span class="fa fa-facebook-f"></span>
+                                    </a>
+                                    <a href="https://www.facebook.com/rae.duplessis" target="_blank">
+                                        <span class="fa fa-twitter"></span>
+                                    </a>
+                                    <a href="https://www.facebook.com/rae.duplessis" target="_blank">
+                                        <span class="fa fa-instagram"></span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <!-- end team member -->
 
-              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
-                  <div class="team-member last text-center">
-                      <div class="team-img">
-                          <img src="/images/travis-diveinstructor.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Travis Pirzenthal</a>
-                      <p><em>Ocean Warriors Tour Operator, Skipper & Dive Instructor</em><br /><br />
-					  Passionate about sharing the thrill of the ocean, Travis combines local knowledge, diving expertise, and a friendly approach that makes every guest feel like part of the crew.</p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
+                        <div class="team-member last text-center">
+                            <div class="team-img">
+                                <img src="/images/travis-diveinstructor.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Travis Pirzenthal</a>
+                            <p>
+                                <em>Ocean Warriors Tour Operator, Skipper & Dive Instructor</em><br />
+                                <br />
+                                Passionate about sharing the thrill of the ocean, Travis combines local knowledge, diving expertise, and a friendly approach that makes every guest feel like part of the crew.
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="#url">
+                                        <span class="fa fa-facebook-f"></span>
+                                    </a>
+                                    <a href="#url">
+                                        <span class="fa fa-twitter"></span>
+                                    </a>
+                                    <a href="#url">
+                                        <span class="fa fa-instagram"></span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-			   <div class="col-lg-3 col-6 team-wrap">
-                  <div class="team-member text-center">
-                      <div class="team-img">
-                          <img src="/images/emil-skipper.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Emil Pirzenthal</a>
-                      <p><em>Ocean Warriors Tour Operator, Senior Skipper & Dive Instructor</em><br /><br />
-					 With years navigating South Africa’s iconic dive sites, Emil ensures every journey is smooth, safe, thrilling, and truly unforgettable</p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <div class="col-lg-3 col-6 team-wrap">
+                        <div class="team-member text-center">
+                            <div class="team-img">
+                                <img src="/images/emil-skipper.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Emil Pirzenthal</a>
+                            <p>
+                                <em>Ocean Warriors Tour Operator, Senior Skipper & Dive Instructor</em><br />
+                                <br />
+                                With years navigating South Africa’s iconic dive sites, Emil ensures every journey is smooth, safe, thrilling, and truly unforgettable
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="#url">
+                                        <span class="fa fa-facebook-f"></span>
+                                    </a>
+                                    <a href="#url">
+                                        <span class="fa fa-twitter"></span>
+                                    </a>
+                                    <a href="#url">
+                                        <span class="fa fa-instagram"></span>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
-
-          </div>
-      </div></div>
-</section>
-	<section class="w3l-stats py-5" id="stats">
+                    <!-- end team member -->
+                </div>
+                <br />
+                <div class="row">
+                     <div class="col-md-2">
+                        <img src="/images/ocean-warriors.png" class="img-fluid" />
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/padi.png" class="img-fluid"/>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/rae.png" class="img-fluid"/>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/swell-eco-lodge.png" class="img-fluid"/>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="/images/local-is-lekker.png" class="img-fluid"/>
+                    </div>
+                      <div class="col-md-2">
+                        <img src="/images/aliwal-shoal-adventures.png" class="img-fluid"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="w3l-stats py-5" id="stats">
         <div class="container py-md-5 py-3">
-			   <div class="row stats-icon text-center">
-			 <div class="col-lg-12 col-md-6 stats_info">
-				 <h3 class="counter">The Ocean Warrior Difference</h3>
-				<p> Decades of skill, unmatched safety, and a passion for the sea, here’s why your adventure is in the best hands. </p>
-				 </div>
-				   </div>
-		
+            <div class="row stats-icon text-center">
+                <div class="col-lg-12 col-md-6 stats_info">
+                    <h3 class="counter">The Ocean Warrior Difference</h3>
+                    <p>Decades of skill, unmatched safety, and a passion for the sea, here’s why your adventure is in the best hands. </p>
+                </div>
+            </div>
+
             <div class="row stats-icon text-center">
                 <div class="col-lg-4 col-md-6 stats_info">
                     <h3 class="counter">50,000+</h3>
                     <h4 class="mb-3">Dives and launches without incident.</h4>
-                    <p>A proven safety record you can trust.
+                    <p>
+                        A proven safety record you can trust.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-6 stats_info mt-md-0 mt-5">
                     <h3 class="counter">25+ Years</h3>
                     <h4 class="mb-3">Of Combined Ocean Experience</h4>
-                    <p>Expertise built over decades in the water.
+                    <p>
+                        Expertise built over decades in the water.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-6 stats_info mt-lg-0 mt-5">
-                   
+
                     <h3 class="counter">PADI-Certified </h3>
                     <h4 class="mb-3">Instructors & Skippers</h4>
-                    <p>Trained to the highest international standards.
+                    <p>
+                        Trained to the highest international standards.
                     </p>
                 </div>
             </div>
         </div>
     </section>
-	
-	<section class="w3l-progressblock py-5">
-    <div class="container py-lg-5 py-md-3">
-        <div class="row">
-            
-            <div class="col-lg-7 left-wthree-img mb-lg-0 mb-4">
-                <div class="row">
-                    <div class="container" data-aos="fade-up">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="video-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-                    <iframe 
-                        src="https://www.youtube.com/embed/cKisyvB_i2Q?rel=0&autoplay=0&loop=1&playlist=cKisyvB_i2Q" 
-                        title="YouTube video player" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                        allowfullscreen
-                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                    </iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-                    <!--<div class="col-lg-6 p-lg-4">
+
+    <section class="w3l-progressblock py-5">
+        <div class="container py-lg-5 py-md-3">
+            <div class="row">
+
+                <div class="col-lg-7 left-wthree-img mb-lg-0 mb-4">
+                    <div class="row">
+                        <div class="container" data-aos="fade-up">
+                            <div class="row">
+                                <div class="col-lg-12 text-center">
+                                    <div class="video-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+                                        <iframe
+                                            src="https://www.youtube.com/embed/cKisyvB_i2Q?rel=0&autoplay=0&loop=1&playlist=cKisyvB_i2Q"
+                                            title="YouTube video player"
+                                            frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                            allowfullscreen
+                                            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--<div class="col-lg-6 p-lg-4">
                         <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
                     </div>-->
+                    </div>
+                </div>
+
+                <div class="col-lg-5 about-right-faq align-self pl-lg-5">
+                    <h5 class="sub-hnytitle mb-2">Surf. Dive. Sleep. Repeat</h5>
+                    <h3 class="w3l-hnytitle">Stay & Play – Adventure with Comfort</h3>
+                    <p class="mt-4">
+                        Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke every day of your journey.
+                    </p>
+                    <br />
+                    <a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary">Widdy's Beach Club</a>
+                    <!--<a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>-->
+
                 </div>
             </div>
-
-            <div class="col-lg-5 about-right-faq align-self pl-lg-5">
-                <h5 class="sub-hnytitle mb-2">Surf. Dive. Sleep. Repeat</h5>
-                <h3 class="w3l-hnytitle">Stay & Play – Adventure with Comfort</h3>
-                <p class="mt-4">Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke every day of your journey.
-				</p><br />
-				<a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary">Widdy's Beach Club</a>
-                <!--<a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>-->
-					
-            </div>
         </div>
-    </div>
-</section>
+    </section>
 
-	
+
     <!-- //banner section -->
-    <br /><br />
+    <br />
+    <br />
     <!-- /bottom-grids-->
-  <!--  <section class="w3l-bottom-grids-6 py-5" id="services">
+    <!--  <section class="w3l-bottom-grids-6 py-5" id="services">
         <div class="container py-lg-5 py-md-4 py-2">
             <h6 class="sub-hnytitle text-center">Our Services </h6>
             <h3 class="w3l-hnytitle mb-md-5 mb-4 text-center">Surfing For All Abilities</h3>
@@ -415,7 +483,7 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                 </span>
                             </a>
                             <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
-                        <!--     <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+    <!--     <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
                                 <iframe src="https://player.vimeo.com/video/6092731"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                             </div>
                         </div>
@@ -424,15 +492,15 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
             </div>
         </div>
     </section>-->
-	
-    <!-- //bottom-grids-->
-	<div style="margin: 8px auto; display: block; text-align:center;">
 
-<!---728x90--->
- 
-</div>
+    <!-- //bottom-grids-->
+    <div style="margin: 8px auto; display: block; text-align: center;">
+
+        <!---728x90--->
+
+    </div>
     <!-- stats -->
-   <!--  <section class="w3l-stats py-5" id="stats">
+    <!--  <section class="w3l-stats py-5" id="stats">
         <div class="container py-md-5 py-3">
             <div class="row stats-icon text-center">
                 <div class="col-lg-4 col-md-6 stats_info">
@@ -458,16 +526,16 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
         </div>
     </section>
     <!-- //stats -->
-	<div style="margin: 8px auto; display: block; text-align:center;">
+    <div style="margin: 8px auto; display: block; text-align: center;">
 
-<!---728x90--->
- 
-</div>
-   
+        <!---728x90--->
+
+    </div>
+
     <!-- grids block 5 -->
-    
+
     <!-- // grids block 5 -->
-  <!--   <section class="w3l-progressblock py-5">
+    <!--   <section class="w3l-progressblock py-5">
         <div class="container py-lg-5 py-md-3">
             <div class="row">
                 
@@ -498,19 +566,21 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
         <div class="container py-lg-5 py-md-4 py-3">
             <div class="welcome-left text-left">
                 <h3 class="w3l-hnytitle">Highrocks Beach House</h3>
-                    <p>Highrocks is a 5 bedroom (4 with Aircon), 4 ensuite, bespoke beach house, repeatedly voted as a Top Ten Getaway Beach House by Getaway Magazine.
-                    Just a cruisey 39-minute drive South of Durban, you’ll be greeted with expansive ocean and beach views for as far as the eye can see. </p>
+                <p>
+                    Highrocks is a 5 bedroom (4 with Aircon), 4 ensuite, bespoke beach house, repeatedly voted as a Top Ten Getaway Beach House by Getaway Magazine.
+                    Just a cruisey 39-minute drive South of Durban, you’ll be greeted with expansive ocean and beach views for as far as the eye can see.
+                </p>
                 <a href="https://www.highrocksbeachhouse.co.za/gallery" target="blank" class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2">View House</a>
                 <a href="https://www.highrocksbeachhouse.co.za/check-availability" target="blank" class="btn btn-style transparent-btn mt-sm-5 mt-4">Check Availability</a>
             </div>
         </div>
     </div>
     <!-- //middle -->
-	<div style="margin: 8px auto; display: block; text-align:center;">
+    <div style="margin: 8px auto; display: block; text-align: center;">
 
-<!---728x90--->
- 
-</div>
+        <!---728x90--->
+
+    </div>
     <!-- testimonials -->
     <section class="w3l-clients" id="clients">
         <!-- /grids -->
@@ -533,7 +603,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team1.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team1.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -554,7 +625,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team2.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team2.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -575,7 +647,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team3.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team3.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -596,7 +669,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team4.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team4.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -617,7 +691,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team2.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team2.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -638,7 +713,8 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                                             Dolores molestias adipisci dolor sit amet!.</q>
                                     </blockquote>
                                     <div class="testi-des">
-                                        <div class="test-img"><img src="/images/team3.jpg" class="img-fluid"
+                                        <div class="test-img">
+                                            <img src="/images/team3.jpg" class="img-fluid"
                                                 alt="client-img">
                                         </div>
                                         <div class="peopl align-self">
@@ -666,9 +742,11 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                         <div class="header-section text-center mx-auto">
                             <h5 class="sub-hnytitle mb-2">Join Us</h5>
                             <h3 class="w3l-hnytitle mb-4">Stay Updated!</h3>
-                            <p class="my-3">Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
+                            <p class="my-3">
+                                Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
                                 consectetur adipisicing.
-                                turpis sodales quis. Integer sit amet mattis quam.</p>
+                                turpis sodales quis. Integer sit amet mattis quam.
+                            </p>
                         </div>
                         <form action="#" method="post" class="subscribe-wthree pt-2 mt-5">
                             <div class="d-md-flex flex-wrap subscribe-wthree-field">
