@@ -81,46 +81,16 @@
 
             <div class="midd-footer-28 align-center py-lg-4 py-3 mt-5">
                 <div class="container">
-                    <p class="copy-footer-28 text-center"> Copyright © <%=DateTime.Now.Year.ToString() %> Ocean Warriors Dive. All Rights Reserved. Hosted by <a href="https://webox.co.za" target="=_blank" style="color:#67666d">Webox</a></p>
+                    <p class="copy-footer-28 text-center"> Copyright © <%=DateTime.Now.Year.ToString() %> Ocean Warriors Dive. All Rights Reserved. Hosted by <a href="https://webox.co.za" target="=_blank" style="color:#67666d">Webox.</a></p>
                 </div>
             </div>
         </footer>
-
-        <!-- move top -->
         <button onclick="topFunction()" id="movetop" title="Go to top">
             &#10548;
         </button>
-        <script data-cfasync="false" src="../../../../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-            // When the user scrolls down 20px from the top of the document, show the button
-            window.onscroll = function () {
-                scrollFunction()
-            };
-
-            function scrollFunction() {
-                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                    document.getElementById("movetop").style.display = "block";
-                } else {
-                    document.getElementById("movetop").style.display = "none";
-                }
-            }
-
-            // When the user clicks on the button, scroll to the top of the document
-            function topFunction() {
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-            }
-        </script>
-        <!-- /move top -->
     </section>
-    <!-- //footer-28 block -->
-
-    <!-- all js scripts and files here -->
-
-    <script src="/js/theme-change.js"></script><!-- theme switch js (light and dark)-->
-
-    <script src="/js/jquery-3.3.1.min.js"></script><!-- default jQuery -->
+    <script src="/js/jquery-3.3.1.min.js"></script>
     <script src="/js/owl.carousel.js"></script>
-    <!-- script for tesimonials carousel slider -->
     <script>
         $(document).ready(function () {
             $("#owl-demo1").owlCarousel({
@@ -146,7 +116,6 @@
             })
         })
     </script>
-    <!-- //script for tesimonials carousel slider -->
     <script src="/js/jquery.magnific-popup.min.js"></script>
     <script>
         $(document).ready(function () {
