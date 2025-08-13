@@ -14909,7 +14909,7 @@ nav ul li a:hover {
 
 @media only screen and (max-width: 991px) {
   .navbar .navbar-brand img {
-    max-width: 140px;
+    max-width: 240px;
   }
 
   .navbar-toggler {
@@ -18682,4 +18682,14 @@ h4.cover-para.w3ls {
 
 .bName {
     display:none;
+}
+
+@media (min-width: 0px) and (max-width: 425px) {
+    .mobile-email-size {
+        font-size: 12px !important;
+    }
+
+    .mt-5, .my-5 {
+        margin-top: 7rem !important;
+    }
 }

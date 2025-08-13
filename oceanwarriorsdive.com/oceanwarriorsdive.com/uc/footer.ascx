@@ -61,14 +61,14 @@
                                     <li><a href="/contact">Get in Touch</a></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-3 footer-list-28 mt-5">
+                            <div class="col-sm-3 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Prices</h6>
                                 <ul>
                                     <li><a href="/diving-pricing">Diving Pricing</a></li>
                                     <li><a href="/surfing-pricing">Surfing Pricing</a></li>
                                 </ul>
                             </div>
-                             <div class="col-sm-3 footer-list-28 mt-5">
+                             <div class="col-sm-3 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Packages</h6>
                                 <ul>
                                     <li><a href="/dive-packages">Dive Packages</a></li>

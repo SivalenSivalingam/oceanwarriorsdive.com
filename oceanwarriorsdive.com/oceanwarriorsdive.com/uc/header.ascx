@@ -9,7 +9,7 @@
                     <div class="top-headers">
                         <ul>
                             <li>
-                                <span class="fa fa-envelope-o"></span><a href="mailto:info@oceanwarriorsdive.com" class="mail">info@oceanwarriorsdive.com</a>
+                                <span class="fa fa-envelope-o"></span><a href="mailto:info@oceanwarriorsdive.com" class="mail mobile-email-size" >info@oceanwarriorsdive.com</a>
                             </li>
                         </ul>
                     </div>
