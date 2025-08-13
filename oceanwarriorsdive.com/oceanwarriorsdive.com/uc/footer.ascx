@@ -4,7 +4,7 @@
         <footer class="footer-28">
             <div class="container py-lg-3">
                 <div class="row footer-top-28">
-                    <div class="col-lg-6 col-md-5 footer-list-28 mt-5">
+                    <div class="col-md-4 footer-list-28 mt-5">
                         <h6 class="footer-title-28">
                             <img src="/images/logo.png" class="img-fluid" style="width:80%;" />
                         </h6>
@@ -23,39 +23,36 @@
                         <div class="main-social-footer-28 mt-3">
                             <ul class="social-icons">
                                 <li class="facebook">
-                                    <a href="#link" title="Facebook">
+                                    <a href="https://www.facebook.com/OceanWarriorsDive" title="Facebook" target="_blank">
                                         <span class="fa fa-facebook" aria-hidden="true"></span>
                                     </a>
                                 </li>
-                                <li class="twitter">
-                                    <a href="#link" title="Twitter">
-                                        <span class="fa fa-twitter" aria-hidden="true"></span>
+                                <li class="instagram">
+                                    <a href="https://www.instagram.com/oceanwarriorsdive/" title="instagram" target="_blank">
+                                        <span class="fa fa-instagram" aria-hidden="true"></span>
                                     </a>
                                 </li>
-                                <li class="dribbble">
-                                    <a href="#link" title="Dribbble">
-                                        <span class="fa fa-dribbble" aria-hidden="true"></span>
-                                    </a>
-                                </li>
-                                <li class="google">
-                                    <a href="#link" title="Google">
-                                        <span class="fa fa-google" aria-hidden="true"></span>
+                                <li class="whatsapp">
+                                    <a href="https://wa.me/+27825526112" title="whatsapp" target="_blank">
+                                        <span class="fa fa-whatsapp" aria-hidden="true"></span>
                                     </a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-7">
+                    <div class="col-md-8">
                         <div class="row">
-                            <div class="col-sm-4 col-6 footer-list-28 mt-5">
+                            <div class="col-sm-3 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Company</h6>
                                 <ul>
                                     <li><a href="/about">About Us</a></li>
                                     <li><a href="/services">Services</a></li>
                                     <li><a href="/contact">Contact Us</a></li>
+                                    <li><a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a></li>
+                                    <li><a href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-4 col-6 footer-list-28 mt-5">
+                            <div class="col-sm-3 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Quick Links</h6>
                                 <ul>
                                     <li><a href="/about">What we do</a></li>
@@ -64,13 +61,19 @@
                                     <li><a href="/contact">Get in Touch</a></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-4 footer-list-28 mt-5">
-                                <h6 class="footer-title-28">Support</h6>
+                            <div class="col-sm-3 footer-list-28 mt-5">
+                                <h6 class="footer-title-28">Prices</h6>
                                 <ul>
-                                    <li><a href="#URL">All Dogs</a></li>
-                                    <li><a href="#URL">Care Advices</a></li>
-                                    <li><a href="#URL">Care Support</a></li>
-                                    <li><a href="#URL">Veterinary Help</a></li>
+                                    <li><a href="/diving-pricing">Diving Pricing</a></li>
+                                    <li><a href="/surfing-pricing">Surfing Pricing</a></li>
+                                </ul>
+                            </div>
+                             <div class="col-sm-3 footer-list-28 mt-5">
+                                <h6 class="footer-title-28">Packages</h6>
+                                <ul>
+                                    <li><a href="/dive-packages">Dive Packages</a></li>
+                                    <li><a href="/dive-courses">Dive Courses</a></li>
+                                    <li><a href="/surf-packages">Surf Packages</a></li>
                                 </ul>
                             </div>
                         </div>
