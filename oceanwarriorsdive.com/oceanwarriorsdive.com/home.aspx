@@ -31,20 +31,20 @@
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
                     <div class="row">
                         <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/s3.jpg" alt="" class="img-fluid radius-image">
+                            <img src="/images/ocean-warriors1.jpg" alt="" class="img-fluid radius-image">
                         </div>
                         <div class="col-lg-6 p-lg-4">
-                            <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                            <img src="/images/ocean-warriors2.jpg" alt="" class="img-fluid radius-image mx-lg-3">
                         </div>
                     </div>
                 </div>
               <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
                     <div class="row">
                         <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/s3.jpg" alt="" class="img-fluid radius-image">
+                            <img src="/images/ocean-warriors3.jpg" alt="" class="img-fluid radius-image">
                         </div>
                         <div class="col-lg-6 p-lg-4">
-                            <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                            <img src="/images/ocean-warriors4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                             </div>
                         </div>
                         <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/s3.jpg" alt="" class="img-fluid" /></a>
+                            <a href="blog-single.html"><img src="/images/scuba-diving.jpg" alt="" class="img-fluid" /></a>
                         </div>
                     </div>
                     <div class="col-lg-6 m-blog-left">
@@ -84,12 +84,12 @@
                             </div>
                         </div>
                         <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/s4.jpg" alt="" class="img-fluid" /></a>
+                            <a href="blog-single.html"><img src="/images/marine-photography.jpg" alt="" class="img-fluid" /></a>
                         </div>
                     </div>
                     <div class="col-lg-6 m-blog-right">
                         <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/s6.jpg" alt="" class="img-fluid" /></a>
+                            <a href="blog-single.html"><img src="/images/surfing.jpg" alt="" class="img-fluid" /></a>
                         </div>
                         <div class="grids5-info three-set-b">
                             <div class="blog-info-grid">
@@ -106,7 +106,7 @@
                     </div>
                     <div class="col-lg-6 m-blog-right">
                         <div class="grids5-info-img">
-                            <a href="blog-single.html"><img src="/images/s5.jpg" alt="" class="img-fluid" /></a>
+                            <a href="blog-single.html"><img src="/images/courses.jpg" alt="" class="img-fluid" /></a>
                         </div>
                         <div class="grids5-info four-set-b">
                             <div class="blog-info-grid">
@@ -139,10 +139,10 @@
                 <div class="col-lg-7 left-wthree-img mt-lg-0 mt-4">
                     <div class="row">
                         <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/s1.jpg" alt="" class="img-fluid radius-image">
+                            <img src="/images/sardine-run1.jpg" alt="" class="img-fluid radius-image">
                         </div>
                         <div class="col-lg-6 p-lg-4">
-                            <img src="/images/s2.jpg" alt="" class="img-fluid radius-image mx-lg-3">
+                            <img src="/images/sardine-run2.jpg" alt="" class="img-fluid radius-image mx-lg-3">
                         </div>
                     </div>
                 </div>
@@ -175,20 +175,20 @@ With decades of combined ocean experience, world class certifications and an uns
               <div class="col-lg-3 col-6 team-wrap">
                   <div class="team-member text-center">
                       <div class="team-img">
-                          <img src="/images/team1.jpg" alt="" class="radius-image">
+                          <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
                       </div>
                       <a href="#url" class="team-title">Julian Taylor</a>
 					  <p><em>Ocean Warrior Leader CEO, International Lifeguard & Skipper</em><br /><br />
 					  A seasoned ocean professional with international lifeguard credentials, Julian leads every expedition with precision, safety, and a deep respect for the sea.</p>
                       <div class="team-details text-center">
                         <div class="socials mt-20">
-                            <a href="#url">
+                            <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
                                 <span class="fa fa-facebook-f"></span>
                             </a>
-                            <a href="#url">
+                             <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
                                 <span class="fa fa-twitter"></span>
                             </a>
-                            <a href="#url">
+                             <a href="https://www.facebook.com/julian.taylor.9634" target="_blank">
                                 <span class="fa fa-instagram"></span>
                             </a>
                         </div>
@@ -197,41 +197,44 @@ With decades of combined ocean experience, world class certifications and an uns
               </div>
               <!-- end team member -->
 
-              <div class="col-lg-3 col-6 team-wrap">
-                  <div class="team-member text-center">
-                      <div class="team-img">
-                          <img src="/images/team2.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Emil Pirzenthal</a>
-                      <p><em>Ocean Warriors Tour Operator, Senior Skipper & Dive Instructor</em><br /><br />
-					 With years navigating South Africa’s iconic dive sites, Emil ensures every journey is smooth, safe, thrilling, and truly unforgettable</p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
-                        </div>
-                    </div>
-                  </div>
-              </div>
+             
               <!-- end team member -->
 
               <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
                   <div class="team-member last text-center">
                       <div class="team-img">
-                          <img src="/images/team3.jpg" alt="" class="radius-image">
+                          <img src="/images/rae-marine-photographer.jpg" alt="" class="radius-image">
                       </div>
                       <a href="#url" class="team-title">Rae Du Plessis</a>
                       <p><em>Ocean Warriors Dive Instructor & Marine Photographer</em><br /><br />
 					  An award-winning marine photographer and experienced dive instructor, Rae helps you see and capture the ocean in ways few ever do.</p>
                       <div class="team-details text-center">
                         <div class="socials mt-20">
+                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
+                                <span class="fa fa-facebook-f"></span>
+                            </a>
+                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
+                                <span class="fa fa-twitter"></span>
+                            </a>
+                            <a href="https://www.facebook.com/rae.duplessis" target="_blank" >
+                                <span class="fa fa-instagram"></span>
+                            </a>
+                        </div>
+                    </div>
+                  </div>
+              </div>
+              <!-- end team member -->
+
+              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
+                  <div class="team-member last text-center">
+                      <div class="team-img">
+                          <img src="/images/travis-diveinstructor.jpg" alt="" class="radius-image">
+                      </div>
+                      <a href="#url" class="team-title">Travis Pirzenthal</a>
+                      <p><em>Ocean Warriors Tour Operator, Skipper & Dive Instructor</em><br /><br />
+					  Passionate about sharing the thrill of the ocean, Travis combines local knowledge, diving expertise, and a friendly approach that makes every guest feel like part of the crew.</p>
+                      <div class="team-details text-center">
+                        <div class="socials mt-20">
                             <a href="#url">
                                 <span class="fa fa-facebook-f"></span>
                             </a>
@@ -245,16 +248,14 @@ With decades of combined ocean experience, world class certifications and an uns
                     </div>
                   </div>
               </div>
-              <!-- end team member -->
-
-              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
-                  <div class="team-member last text-center">
+			   <div class="col-lg-3 col-6 team-wrap">
+                  <div class="team-member text-center">
                       <div class="team-img">
-                          <img src="/images/team4.jpg" alt="" class="radius-image">
+                          <img src="/images/emil-skipper.jpg" alt="" class="radius-image">
                       </div>
-                      <a href="#url" class="team-title">Travis Pirzenthal</a>
-                      <p><em>Ocean Warriors Tour Operator, Skipper & Dive Instructor</em><br /><br />
-					  Passionate about sharing the thrill of the ocean, Travis combines local knowledge, diving expertise, and a friendly approach that makes every guest feel like part of the crew.</p>
+                      <a href="#url" class="team-title">Emil Pirzenthal</a>
+                      <p><em>Ocean Warriors Tour Operator, Senior Skipper & Dive Instructor</em><br /><br />
+					 With years navigating South Africa’s iconic dive sites, Emil ensures every journey is smooth, safe, thrilling, and truly unforgettable</p>
                       <div class="team-details text-center">
                         <div class="socials mt-20">
                             <a href="#url">
@@ -339,11 +340,11 @@ With decades of combined ocean experience, world class certifications and an uns
             <div class="col-lg-5 about-right-faq align-self pl-lg-5">
                 <h5 class="sub-hnytitle mb-2">Surf. Dive. Sleep. Repeat</h5>
                 <h3 class="w3l-hnytitle">Stay & Play – Adventure with Comfort</h3>
-                <p class="mt-4">Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke — every day of your journey.</p>
-				<div class="d-flex">
-                <a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4 me-2"  >Widdy's Beach Club</a>
-                <a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>
-					</div>
+                <p class="mt-4">Chase waves by day and chill in our curated coastal stays by night. All our adventures come with carefully selected accommodation options, so you can rest, recharge, and relive the stoke every day of your journey.
+				</p><br />
+				<a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary">Widdy's Beach Club</a>
+                <!--<a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>-->
+					
             </div>
         </div>
     </div>
@@ -496,11 +497,11 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
     <div class="middle py-5">
         <div class="container py-lg-5 py-md-4 py-3">
             <div class="welcome-left text-left">
-                <h3 class="w3l-hnytitle">10
-                    Over Ten Years in the Game</h3>
-                    <p>Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit </p>
-                <a href="#started" class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2">Get started</a>
-                <a href="contact.html" class="btn btn-style transparent-btn mt-sm-5 mt-4">Contact Us</a>
+                <h3 class="w3l-hnytitle">Highrocks Beach House</h3>
+                    <p>Highrocks is a 5 bedroom (4 with Aircon), 4 ensuite, bespoke beach house, repeatedly voted as a Top Ten Getaway Beach House by Getaway Magazine.
+                    Just a cruisey 39-minute drive South of Durban, you’ll be greeted with expansive ocean and beach views for as far as the eye can see. </p>
+                <a href="https://www.highrocksbeachhouse.co.za/gallery" target="blank" class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2">View House</a>
+                <a href="https://www.highrocksbeachhouse.co.za/check-availability" target="blank" class="btn btn-style transparent-btn mt-sm-5 mt-4">Check Availability</a>
             </div>
         </div>
     </div>
