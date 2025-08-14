@@ -138,7 +138,7 @@
                                 <div class="col-lg-7">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="assets/img/features/features-4.webp" alt="" class="img-fluid">
+                                            <img src="images/ocean-warriors1.jpg" alt="" class="img-fluid">
                                             <div class="floating-card">
                                                 <i class="bi bi-graph-up-arrow"></i>
                                                 <div class="card-content">
@@ -206,7 +206,7 @@
                                 <div class="col-lg-7">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="assets/img/features/features-2.webp" alt="" class="img-fluid">
+                                            <img src="images/ocean-warriors3.jpg" alt="" class="img-fluid">
                                             <div class="floating-card">
                                                 <i class="bi bi-shield-check"></i>
                                                 <div class="card-content">
@@ -274,7 +274,7 @@
                                 <div class="col-lg-7">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="assets/img/features/features-6.webp" alt="" class="img-fluid">
+                                            <img src="images/ocean-warriors2.jpg" alt="" class="img-fluid">
                                             <div class="floating-card">
                                                 <i class="bi bi-speedometer2"></i>
                                                 <div class="card-content">
@@ -342,7 +342,7 @@
                                 <div class="col-lg-7">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="assets/img/features/features-1.webp" alt="" class="img-fluid">
+                                            <img src="images/ocean-warriors3.jpg" alt="" class="img-fluid">
                                             <div class="floating-card">
                                                 <i class="bi bi-headset"></i>
                                                 <div class="card-content">
