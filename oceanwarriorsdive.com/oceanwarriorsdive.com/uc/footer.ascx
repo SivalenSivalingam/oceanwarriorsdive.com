@@ -46,7 +46,7 @@
                                 <h6 class="footer-title-28">Company</h6>
                                 <ul>
                                     <li><a href="/about">About Us</a></li>
-                                    <li><a href="/services">Services</a></li>
+                                    <li><a href="/gallery">Gallery</a></li>
                                     <li><a href="/contact">Contact Us</a></li>
                                     <li><a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="_blank">Widdy's Beach Club</a></li>
                                     <li><a href="https://www.highrocksbeachhouse.co.za/" target="_blank">Highrocks Beach House</a></li>
@@ -55,14 +55,14 @@
                             <div class="col-sm-3 col-6 footer-list-28 mt-5">
                                 <h6 class="footer-title-28">Quick Links</h6>
                                 <ul>
-                                    <li><a href="/about">What we do</a></li>
+                                    <li><a href="/about#whatwedo">What we do</a></li>
                                     <li><a href="/home#team">Meet the team</a></li>
                                     <li><a href="/sardinerun">Sardine Run</a></li>
                                     <li><a href="/contact">Get in Touch</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3 col-6 footer-list-28 mt-5">
-                                <h6 class="footer-title-28">Prices</h6>
+                                <h6 class="footer-title-28">Pricing</h6>
                                 <ul>
                                     <li><a href="/diving-pricing">Diving Pricing</a></li>
                                     <li><a href="/surfing-pricing">Surfing Pricing</a></li>

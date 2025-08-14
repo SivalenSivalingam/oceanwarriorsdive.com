@@ -17,11 +17,11 @@
     <section class="py-5">
         <section id="pricing" class="pricing section">
             <div class="container section-title" data-aos="fade-up">
-                <span class="description-title">Pricing</span>
-                <h2>Pricing</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <span class="description-title"></span>
+                <h2 class="text-center">Dive & Accomodation Packages</h2>
+                <p class="text-center">Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
             </div>
-            <br />
+            <br /><br />
             <div class="container" data-aos="fade-up" data-aos-delay="100">
                 <div class="row gy-4">
 

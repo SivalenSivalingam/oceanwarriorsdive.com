@@ -14,33 +14,73 @@
       </div>
   </div>
 </section>
+	
+	<section class="w3l-homeblock1" id="">
+        <div class="midd-w3 py-5">
+            <div class="container py-lg-5 py-md-4 py-2">
+                <div class="row">
+                    <div class="col-lg-6 align-self pr-lg-5">
+                        <h5 class="sub-hnytitle mb-2">About Ocean Warriors</h5>
+                        <h3 class="w3l-hnytitle">Bound by the Sea.<br /> Driven by Adventure.</h3>
+                        <p class="mt-4">We are Ocean Warriors, a tribe of divers, wave riders and ocean enthusiasts dedicated to creating unforgettable experiences. Every dive, surf session and coastal adventure is delivered with purpose, passion and protection at our core.                            <br /><br />
+Led by world champion lifeguard Julian Taylor, our team of expert skippers and dive instructors brings a combined record of 50,000+ dives and launches without incident. With safety, skill, and adventure at the forefront, we guide you through some of South Africa’s most iconic marine experiences from shark dives at Aliwal Shoal to the legendary Sardine Run.</p>
+                        <a href="/sardinerun" class="btn btn-style btn-primary mt-md-5 mt-4">Book your Sardine Run Experience</a>
+                    </div>
+                    <div class="col-lg-6 ">
+                                   <img src="/images/ocean-warrior-team.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+                </div>
+            </div>
+        </div>
+    </section>
 <!-- //about breadcrumb -->
 <section class="w3l-content-6 py-5">
   <div class="container py-md-5">
   <!-- /content-6-section -->
-    <div class="content-6-mian">
-      <h5 class="sub-hnytitle mb-2">About Us</h5>
-      <h3 class="w3l-hnytitle mb-5">Enjoy life, one wave at a time</h3>
-    
+    <div class="content-12-mian text-center">
+      <h5 class="sub-hnytitle mb-2">Ocean Warrior Leader</h5>
+      <h3 class="w3l-hnytitle mb-5">Julian Taylor</h3>
+	  </div>
        <div class="content-info-in row">
-           <div class="content-gd col-lg-6 pr-lg-5">
-               <p>Ea consequuntur illum facere aperiam sequi optio consectetur adipisicing elitFuga, suscipit totam animi consequatur saepe blanditiis.Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio consectetur adipisicing elit. Fuga, suscipit totam animi consequatur saepe blanditiis.</p>
+           <div class="content-gd col-lg-9 pr-lg-5">
+               <p>Julian Taylor is a South African world champion lifeguard, specifically known for his achievements in surf lifesaving and open water swimming. He is a former South African swimming and surf lifesaving captain and has won the Four Elements Conservation Ocean Challenge in Durban. He is also involved with Ocean Warriors Dive, a program that brings together world champions in ocean sports. </p>
+			   <br />
+			   
+			   <p><b> Here's a more detailed look at his accomplishments:</b><br />
+<b> Surf Lifesaving:</b><br />
+Taylor is recognized as a world champion lifeguard and has been involved with the Durban Surf Lifesaving Club, which has achieved global recognition in the sport. <br />
+<b>Open Water Swimming:</b><br />
+He has competed in and won various open water swimming events, including the Four Elements Ocean Challenge. <br />
+<b>Ocean Warriors:</b><br />
+He is a key figure in the Ocean Warriors program, which celebrates athletes excelling in ocean sports. <br />
+<b>Other Activities:</b><br />
+He has also participated in endurance swims, such as a swim from eManzimtoti to Warner Beach to raise awareness for a school. <br />
+<b>Age is just a number:</b><br />
+				  At 52, he still competes and beats younger athletes in swimming competitions</p>
+			   
+			   
+		   </div>
+		   
+           <div class="content-gd col-lg-3">
+                   <div class="team-img">
+					   <br /><br />
+                                <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
+                            </div>
+                    </div>
            </div>
-           <div class="content-gd col-lg-6">
-               <p>Ea consequuntur illum facere aperiam sequi optio consectetur adipisicing elitFuga, suscipit totam animi consequatur saepe blanditiis.Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio consectetur adipisicing elit. Fuga, suscipit totam animi consequatur saepe blanditiis.</p>
+           <div class="discover">
+        <a href="tel:0827816804" class="btn btn-style btn-primary mt-md-5 mt-4">Get in touch with Julian</a>
            </div>
-           
        </div>
-       <div class="discover">
-        <a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Learn More</a>
-           </div>
-     </div>
-   </div>
+       
+
 </section>
+	
+	
  <!-- //content-6-section -->
 
 <!-- home block3 -->
-<section class="w3l-content-4 py-5" id="features">
+<section class="w3l-content-4 py-5" id="whatwedo">
     <div class="content-4-main py-lg-5 py-md-4 py-2">
         <div class="container">
 		<div style="margin: 8px auto; display: block; text-align:center;">
@@ -49,54 +89,48 @@
  
 </div>
           <h5 class="sub-hnytitle mb-2 text-center">What We Do</h5>
-          <h3 class="w3l-hnytitle mb-5 text-center">
-            Our Lessons</h3>
-            <div class="content-info-in row">
-                <div class="content-left col-lg-6">
-                    <img src="/images/ab3.jpg" class="img-fluid radius-image" alt="">
-                </div>
-                <div class="content-right col-lg-6 pl-lg-4 mt-lg-0 mt-md-5 mt-5 align-self">
-                    <div class="row content4-right-grids mb-lg-5 mb-5">
-                        <div class="col-2 content4-right-icon">
-                            <div class="content4-icon">
-                                <span class="fa fa-book"></span>
-                            </div>
+          <h4 class="w3l-hnytitle mb-5 text-center">
+           We deliver world class ocean experiences for thrill seekers, nature lovers and adventurers of all levels.<br /> Our offerings include:</h4>
+            <section class="w3l-progressblock py-5">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-lg-4">
+									<h4 class="text-center">Sardine Run Expeditions</h4>
+									<br />
+                                    <img src="/images/sardine-run-expendition.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  <h4 class="text-center">Shark Dives at Aliwal Shoal</h4>
+									  <br />
+                                    <img src="/images/shark-dives-at-aliwal-shoal.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  <h4 class="text-center">Surf & Paddle Adventures</h4>
+									  <br />
+                                    <img src="/images/surf-paddle-adventures.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								</div>
+							<br /><br /><br /><br />
+							<div class="row">
+                                <div class="col-lg-4">
+									<h4 class="text-center">Marine Photography & Filming</h4>
+									<br />
+                                    <img src="/images/marine-photography-rae.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  <h4 class="text-center">Ocean Safety & Skills Training</h4>
+									  <br />
+                                    <img src="/images/ocean-skills-training.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  <h4 class="text-center">Beachside Accomodations</h4>
+									  <br />
+                                    <img src="/images/beachside-accomodation.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								</div>
                         </div>
-                        <div class="col-10 content4-right-info">
-                            <h6><a href="#url">Lessons for Kids</a></h6>
-                            <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                                consectetur
-                                adipisicing.</p>
-                        </div>
-                    </div>
-                    <div class="row content4-right-grids mb-lg-5 mb-5">
-                        <div class="col-2 content4-right-icon">
-                            <div class="content4-icon">
-                                <span class="fa fa-sitemap"></span>
-                            </div>
-                        </div>
-                        <div class="col-10 content4-right-info">
-                            <h6><a href="#url"> Group Lessons</a></h6>
-                            <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                                consectetur
-                                adipisicing.</p>
-                        </div>
-                    </div>
-                    <div class="row content4-right-grids">
-                        <div class="col-2 content4-right-icon">
-                            <div class="content4-icon">
-                                <span class="fa fa-podcast"></span>
-                            </div>
-                        </div>
-                        <div class="col-10 content4-right-info">
-                            <h6><a href="#url"> Private Lessons</a></h6>
-                            <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                                consectetur
-                                adipisicing.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                    </section>
         </div>
     </div>
 </section>
@@ -110,156 +144,149 @@
 <!---728x90--->
  
 </div>
-        <h5 class="sub-hnytitle mb-2 text-center">Our Team</h5>
-        <h3 class="w3l-hnytitle mb-5 text-center">Aswesome Team</h3>
+        <h5 class="sub-hnytitle mb-2 text-center">Meet the Ocean Warriors</h5>
+        <h3 class="w3l-hnytitle mb-5 text-center">A crew of fearless watermen and women united by a love for the sea and a commitment to sharing its wonders with the world.</h3>
 		<div style="margin: 8px auto; display: block; text-align:center;">
 
 <!---728x90--->
  
 </div>
           <div class="row team-row mt-md-5 mt-4">
-              <div class="col-lg-3 col-6 team-wrap">
-                  <div class="team-member text-center">
-                      <div class="team-img">
-                          <img src="/images/team1.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Lyn Victor</a>
-                      <p>Surf Teacher </p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <div class="col-lg-3 col-6 team-wrap">
+                        <div class="team-member text-center">
+                            <div class="team-img">
+                                <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Julian Taylor</a>
+                            <p>
+                                <em>Ocean Warrior Leader CEO, International Lifeguard & Skipper</em><br />
+                                <br />
+
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/OceanWarriorsDive" target="_blank"><span class="fa fa-facebook"></span></a>
+                                    <a href="https://www.instagram.com/oceanwarriorsdive/" target="_blank"><span class="fa fa-instagram"></span></a>
+                                    <a href="https://wa.me/+27825526112" target="_blank"><span class="fa fa-whatsapp"></span></a>
+
+
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <!-- end team member -->
 
-              <div class="col-lg-3 col-6 team-wrap">
-                  <div class="team-member text-center">
-                      <div class="team-img">
-                          <img src="/images/team2.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Meyer Willson</a>
-                      <p>Surf Teacher </p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+
+                    <!-- end team member -->
+
+                    <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
+                        <div class="team-member last text-center">
+                            <div class="team-img">
+                                <img src="/images/rae-marine-photographer.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Rae Du Plessis</a>
+                            <p>
+                                <em>Ocean Warriors Dive Instructor & Marine Photographer</em><br />
+                                <br />
+                               
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/OceanWarriorsDive" target="_blank"><span class="fa fa-facebook"></span></a>
+                                    <a href="https://www.instagram.com/oceanwarriorsdive/" target="_blank"><span class="fa fa-instagram"></span></a>
+                                    <a href="https://wa.me/+27825526112" target="_blank"><span class="fa fa-whatsapp"></span></a>
+
+
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <!-- end team member -->
 
-              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
-                  <div class="team-member last text-center">
-                      <div class="team-img">
-                          <img src="/images/team3.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Lyn Meyer</a>
-                      <p>Surf Teacher </p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+                    <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
+                        <div class="team-member last text-center">
+                            <div class="team-img">
+                                <img src="/images/travis-diveinstructor.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Travis Pirzenthal</a>
+                            <p>
+                                <em>Ocean Warriors Tour Operator, Skipper & Dive Instructor</em><br />
+                                <br />
+                                
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/OceanWarriorsDive" target="_blank"><span class="fa fa-facebook"></span></a>
+                                    <a href="https://www.instagram.com/oceanwarriorsdive/" target="_blank"><span class="fa fa-instagram"></span></a>
+                                    <a href="https://wa.me/+27825526112" target="_blank"><span class="fa fa-whatsapp"></span></a>
+
+
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <div class="col-lg-3 col-6 team-wrap">
+                        <div class="team-member text-center">
+                            <div class="team-img">
+                                <img src="/images/emil-skipper.jpg" alt="" class="radius-image">
+                            </div>
+                            <a href="#url" class="team-title">Emil Pirzenthal</a>
+                            <p>
+                                <em>Ocean Warriors Tour Operator, Senior Skipper & Dive Instructor</em><br />
+                                <br />
+                               
+                            </p>
+                            <div class="team-details text-center">
+                                <div class="socials mt-20">
+                                    <a href="https://www.facebook.com/OceanWarriorsDive" target="_blank"><span class="fa fa-facebook"></span></a>
+                                    <a href="https://www.instagram.com/oceanwarriorsdive/" target="_blank"><span class="fa fa-instagram"></span></a>
+                                    <a href="https://wa.me/+27825526112" target="_blank"><span class="fa fa-whatsapp"></span></a>
 
-              <div class="col-lg-3 col-6 team-wrap mt-lg-0 mt-5">
-                  <div class="team-member last text-center">
-                      <div class="team-img">
-                          <img src="/images/team4.jpg" alt="" class="radius-image">
-                      </div>
-                      <a href="#url" class="team-title">Sam Mills</a>
-                      <p>Surf Teacher </p>
-                      <div class="team-details text-center">
-                        <div class="socials mt-20">
-                            <a href="#url">
-                                <span class="fa fa-facebook-f"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-                            <a href="#url">
-                                <span class="fa fa-instagram"></span>
-                            </a>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
-                  </div>
-              </div>
-              <!-- end team member -->
+                    <!-- end team member -->
 
-          </div>
+                </div>
       </div>
+	        </div>
 </section>
 <!--//team-sec-->
 <!-- /progress-->
-<section class="w3l-progressblock py-5" id="seoservices">
-    <div class="container py-lg-5 py-md-3">
-        <div class="row">
-            <div class="col-lg-6 about-right-faq align-self">
-              <h5 class="sub-hnytitle mb-2">Windsurfing</h5>
-              <h3 class="w3l-hnytitle">Surfing is not a sport, it’s a life style</h3>
-                <p class="mt-lg-4 mt-3 mb-lg-5 mb-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                    ultrices in ligula. Semper at, ipsum dolor sit amet
-                    elit. Non quae, fugiat ad.</p>
-                <div class="progress-info info1">
-                    <h6 class="progress-tittle">Surfing <span class="">80%</span></h6>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%"
-                            aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                        </div>
-                    </div>
-                </div>
-                <div class="progress-info info2">
-                    <h6 class="progress-tittle">Boats <span class="">95%</span>
-                    </h6>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%"
-                            aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
-                        </div>
-                    </div>
-                </div>
-                <div class="progress-info info3">
-                    <h6 class="progress-tittle">Diving <span class="">75%</span></h6>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%"
-                            aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
-                        </div>
-                    </div>
-                </div>
 
-            </div>
-            <div class="col-lg-6 left-wthree-img mt-lg-0 mt-4 pl-lg-5">
-                <img src="/images/ab1.jpg" alt="" class="img-fluid radius-image">
+	<section class="w3l-stats py-5" id="stats">
+        <div class="container py-md-5 py-3">
+            <div class="row stats-icon text-center">
+                <div class="col-lg-4 col-md-6 stats_info">
+                    <h3 class="counter">&nbsp;&nbsp;</h3>
+                    <h4 class="mb-3">&nbsp;&nbsp;</h4>
+                    <p>
+                        
+                   
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6 stats_info mt-md-0 mt-5">
+                    <h3 class="counter">&nbsp;&nbsp;</h3>
+                    <h4 class="mb-3">&nbsp;&nbsp;</h4>
+                    <p>
+                      
+                   
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6 stats_info mt-lg-0 mt-5">
+
+                    <h3 class="counter">&nbsp;&nbsp;</h3>
+                    <h4 class="mb-3">&nbsp;&nbsp;</h4>
+                    <p>
+                        
+                   
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+	
 </asp:Content>
 

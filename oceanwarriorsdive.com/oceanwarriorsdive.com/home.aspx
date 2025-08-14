@@ -18,28 +18,11 @@
             <!-- grids block 5 -->
             <div id="grids5-block" class="">
                 <div class="container-flid">
-                    <h4 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Your Ocean Adventure Starts Here</b><br />
-                    </h4>
-                    <h5 class="text-center">From shark diving the legendary Aliwal Shoal to chasing bait balls during the adrenaline fueled
-                        <br />
-                        Sardine Run along South Africa’s untamed Wild Coast this is your call to adventure.<br />
-                        <br />
-                        Based in the vibrant coastal town of Umkomaas, KwaZulu-Natal,
-                        <br />
-                        Ocean Warriors Dive offers world-class ocean experiences for every skill level.<br />
-                        <br />
-                        Join us for PADI scuba diving courses, marine photography workshops and surfing lessons or<br />
-                        simply soak in the view from our Beach House pool after a thrilling shark or reef dive.<br />
-                        <br />
-                        And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
-                        A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br />
-                        <br />
-                        Think we’re exaggerating? Dive into our gallery and see what you’re missing.
-
-
-                    </h5>
-
-                    <section class="w3l-progressblock py-5">
+                    <h3 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Welcome to Ocean Warriors</b></h3>
+					<h4 class="text-center">Start Your Dive Journey, Get Certified. Get Adventurous, Learn to Dive Today. <br />Level Up Your Dive 					Skills, Become an Ocean Warrior.</h4>
+                   
+					
+					<section class="w3l-progressblock py-5">
                         <div class="container py-lg-5 py-md-3">
                             <div class="row">
 
@@ -66,6 +49,32 @@
                             </div>
                         </div>
                     </section>
+					<section>
+						<div class="row">
+							<div class="col-lg-12">
+                    <p class="text-center">From shark diving the legendary Aliwal Shoal to chasing bait balls during the adrenaline fueled
+                        <br />
+                        Sardine Run along South Africa’s untamed Wild Coast this is your call to adventure.<br />
+                        <br />
+                        Based in the vibrant coastal town of Umkomaas, KwaZulu-Natal,
+                        <br />
+                        Ocean Warriors Dive offers world-class ocean experiences for every skill level.<br />
+                        <br />
+                        Join us for PADI scuba diving courses, marine photography workshops and surfing lessons or<br />
+                        simply soak in the view from our Beach House pool after a thrilling shark or reef dive.<br />
+                        <br />
+                        And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
+                        A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br />
+                        <br />
+                        Think we’re exaggerating? Dive into our gallery and see what you’re missing.
+
+
+                    </p>
+								 </div>
+							
+                        </div>
+					</section>
+                    
                     <br />
                     <br />
                     <div class="row no-gutters">
@@ -315,7 +324,7 @@
             <div class="row stats-icon text-center">
                 <div class="col-lg-4 col-md-6 stats_info">
                     <h3 class="counter">50,000+</h3>
-                    <h4 class="mb-3">Dives and launches without incident.</h4>
+                    <h4 class="mb-3">Dives & launches without incident.</h4>
                     <p>
                         A proven safety record you can trust.
                     </p>
@@ -360,9 +369,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!--<div class="col-lg-6 p-lg-4">
-                        <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
-                    </div>-->
+
                     </div>
                 </div>
 
@@ -374,7 +381,7 @@
                     </p>
                     <br />
                     <a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style btn-primary">Widdy's Beach Club</a>
-                    <!--<a href="https://www.highrocksbeachhouse.co.za/" target="blank" class="btn btn-style btn-primary mt-md-5 mt-4" >Highrocks Beach House</a>-->
+                 
 
                 </div>
             </div>
@@ -385,77 +392,8 @@
     <!-- //banner section -->
     <br />
     <br />
-    <!-- /bottom-grids-->
-    <!--  <section class="w3l-bottom-grids-6 py-5" id="services">
-        <div class="container py-lg-5 py-md-4 py-2">
-            <h6 class="sub-hnytitle text-center">Our Services </h6>
-            <h3 class="w3l-hnytitle mb-md-5 mb-4 text-center">Surfing For All Abilities</h3>
-            <div class="grids-area-hny main-cont-wthree-fea row">
-                <div class="col-lg-3 col-md-6 grids-feature mt-4">
-                    <div class="area-box">
-                        <span class="fa fa-anchor"></span>
-                        <h4><a href="#feature" class="title-head">New to the water?</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Duis dolor amet.</p>
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 grids-feature mt-4">
-                    <div class="area-box">
-                        <span class="fa fa-american-sign-language-interpreting"></span>
-                        <h4><a href="#feature" class="title-head"> Intermediate surfer</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Duis dolor amet.</p>
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 grids-feature mt-4">
-                    <div class="area-box">
-                        <span class="fa fa-tasks"></span>
-                        <h4><a href="#feature" class="title-head">New Advanced skills</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Duis dolor amet.</p>
-
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 grids-feature mt-4">
-                    <div class="area-box">
-                        <span class="fa fa-users"></span>
-                        <h4><a href="#feature" class="title-head">Pro Level Surfing</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Duis dolor amet.</p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-	<section class="w3l-homeblock1" id="">
-        <div class="midd-w3 py-5">
-            <div class="container py-lg-5 py-md-4 py-2">
-                <div class="row">
-                    <div class="col-lg-6 align-self pr-lg-5">
-                        <h5 class="sub-hnytitle mb-2">Who are we</h5>
-                        <h3 class="w3l-hnytitle">We are Ocean Warriors</h3>
-                        <p class="mt-4">Bound by the sea, we are a tribe of divers, wave riders, and adventurers shaping the next generation of ocean athletes. We offer unmatched ocean experiences – with purpose, passion, and protection at our core.                             <br /><br />
-Led by world champion lifeguard Julian Taylor, our team of exceptional skippers and dive masters have a combined track record of 50,000+ dives and launches without incident.</p>
-                        <a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Read More</a>
-                    </div>
-                    <div class="col-lg-6 left-wthree-img mt-lg-0 mt-md-5 mt-4">
-                        <div class="position-relative text-lg-right">
-                            <img src="/images/ab.jpg" alt="" class="img-fluid radius-image">
-                            <a href="#small-dialog"
-                                class="popup-with-zoom-anim play-view text-center position-absolute">
-                                <span class="video-play-icon">
-                                    <span class="fa fa-play"></span>
-                                </span>
-                            </a>
-                            <!-- dialog itself, mfp-hide class is required to make dialog hidden -->
-    <!--     <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
-                                <iframe src="https://player.vimeo.com/video/6092731"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
+   
+	
 
     <!-- //bottom-grids-->
     <div style="margin: 8px auto; display: block; text-align: center;">
@@ -463,69 +401,7 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
         <!---728x90--->
 
     </div>
-    <!-- stats -->
-    <!--  <section class="w3l-stats py-5" id="stats">
-        <div class="container py-md-5 py-3">
-            <div class="row stats-icon text-center">
-                <div class="col-lg-4 col-md-6 stats_info">
-                    <h3 class="counter">80+</h3>
-                    <h4 class="mb-3">World Records</h4>
-                    <p>Lorem ipsum dolor sit amet, Ea conseq untur illum facere aperiam sequi optio.
-                    </p>
-                </div>
-                <div class="col-lg-4 col-md-6 stats_info mt-md-0 mt-5">
-                    <h3 class="counter">64+</h3>
-                    <h4 class="mb-3">Our Events</h4>
-                    <p>Lorem ipsum dolor sit amet, Ea conseq untur illum facere aperiam sequi optio.
-                    </p>
-                </div>
-                <div class="col-lg-4 col-md-6 stats_info mt-lg-0 mt-5">
-                   
-                    <h3 class="counter">95+</h3>
-                    <h4 class="mb-3">Total Rating</h4>
-                    <p>Lorem ipsum dolor sit amet, Ea conseq untur illum facere aperiam sequi optio.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- //stats -->
-    <div style="margin: 8px auto; display: block; text-align: center;">
-
-        <!---728x90--->
-
-    </div>
-
-    <!-- grids block 5 -->
-
-    <!-- // grids block 5 -->
-    <!--   <section class="w3l-progressblock py-5">
-        <div class="container py-lg-5 py-md-3">
-            <div class="row">
-                
-                <div class="col-lg-7 left-wthree-img mb-lg-0 mb-4">
-                    <div class="row">
-                        <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
-                            <img src="/images/s3.jpg" alt="" class="img-fluid radius-image">
-                        </div>
-                        <div class="col-lg-6 p-lg-4">
-                            <img src="/images/s4.jpg" alt="" class="img-fluid radius-image mx-lg-3">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 about-right-faq align-self pl-lg-5">
-                    <h5 class="sub-hnytitle mb-2">Windsurfing</h5>
-                    <h3 class="w3l-hnytitle">Enjoy life, one wave at a time</h3>
-                    <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                        ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet consectetur adipisicing
-                        elit. Non quae, fugiat consequatur voluptatem ad. ultrices in. Ut eu leo non. Duis sed dolor et
-                        amet illum facere.</p>
-                    <a href="about.html" class="btn btn-style btn-primary mt-md-5 mt-4">Read More</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- middle -->
+ 
     <div class="middle py-5">
         <div class="container py-lg-5 py-md-4 py-3">
             <div class="welcome-left text-left">
@@ -650,18 +526,16 @@ Led by world champion lifeguard Julian Taylor, our team of exceptional skippers 
                 <div class="col-lg-9 col-md-10 mx-auto">
                     <div class="subscribe mx-auto">
                         <div class="header-section text-center mx-auto">
-                            <h5 class="sub-hnytitle mb-2">Join Us</h5>
-                            <h3 class="w3l-hnytitle mb-4">Stay Updated!</h3>
+                            <h5 class="sub-hnytitle mb-2">Join the Crew</h5>
+                            <h3 class="w3l-hnytitle mb-4">Dive In, Catch the Wave, Get Updates, Don’t Miss Out</h3>
                             <p class="my-3">
-                                Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                                consectetur adipisicing.
-                                turpis sodales quis. Integer sit amet mattis quam.
+                             
                             </p>
                         </div>
                         <div class="d-md-flex flex-wrap subscribe-wthree-field">
                             <div class="input-group">
                                 <asp:TextBox runat="server" ID="EmailAddress" class="form-control" type="email" placeholder="Enter your email..." name="email"></asp:TextBox>
-                                <asp:Button runat="server" ID="Subscribe" Text="Subscribe" OnClick="Subscribe_Click" class="btn btn-primary" />
+                                <asp:Button runat="server" ID="Subscribe" Text="Dive In" OnClick="Subscribe_Click" class="btn btn-primary" />
                             </div>
                             <br />
                             <asp:Label runat="server" ID="Status"></asp:Label>

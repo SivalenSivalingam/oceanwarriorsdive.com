@@ -17,20 +17,27 @@
     <section class="py-5">
         <section id="pricing" class="pricing section">
             <div class="container section-title" data-aos="fade-up">
-                <span class="description-title">Pricing</span>
-                <h2>Pricing</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+                <span class="description-title"></span>
+                <h2 class="text-center">Ocean Warrior Dive Packages</h2>
+                <p class="text-center">Aliwal Shoal • Umkomaas • South Africa
+Dive with Legends. Stay with Warriors.<br />   <br />   
+					With world-class reefs, sharks, shipwrecks, and seasonal whale sightings, these are our most popular packages, crafted for every level of adventurer.<br />   <br />
+					The Ocean Warriors Dive Centre is located on the beach at Widenham/Umkomaasd.  Luxury en-suites to shared bathroom facilities catering for all budgets.  Direct beach access, self-catering or full board (on request) provides the diver with an authentic island experience. 
+</p>
             </div>
-            <br />
+            <br />     <br />
             <div class="container" data-aos="fade-up" data-aos-delay="100">
                 <div class="row gy-4">
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                         <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Starter</span>
-                                <h3 class="title">Lorem Dolor Sit</h3>
-                                <p class="subtitle">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris.</p>
+                            <div class="card-head text-center">
+                                <span class="badge-title">Beginner</span>
+								<h3 class="title text-center">R750</h3>
+                                <h3 class="title text-center">The Aliwal Snorkel</h3>
+								<h3 class="title text-center">2 Hours</h3>
+                                <p class="subtitle text-center">Snorkel crystal-clear waters teeming with life above the inner reef of Aliwal Shoal.</p>
+								Included
                                 <div class="price-wrap">
                                     <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
                                     <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
@@ -38,15 +45,16 @@
                             </div>
 
                             <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Lorem ipsum dolor amet</li>
-                                <li><i class="bi bi-check-circle"></i>Consectetur adipiscing elit</li>
-                                <li><i class="bi bi-check-circle"></i>Sed do eiusmod tempor</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Incididunt ut labore</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Dolore magna aliqua</li>
+                                <li><i class="bi bi-check-circle"></i>Mask</li>
+                                <li><i class="bi bi-check-circle"></i>Snorkel</li>
+                                <li><i class="bi bi-check-circle"></i>Fins</li>
+                                <li><i class="bi bi-check-circle"></i>Westsuit</li>
+                                <li><i class="bi bi-check-circle"></i>Boat Ride</li>
+								<li><i class="bi bi-check-circle"></i>Tour Guide</li>
                             </ul>
 
                             <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Get Started</a>
+                                <a href="#" class="btn btn-choose w-100">Book Now</a>
                             </div>
                         </article>
                         <!-- End Pricing Item -->
@@ -56,10 +64,12 @@
                         <article class="price-card featured h-100 position-relative">
                             <div class="ribbon"><i class="bi bi-star-fill"></i>Popular</div>
 
-                            <div class="card-head">
-                                <span class="badge-title">Pro</span>
-                                <h3 class="title">Cras Aenean Quam</h3>
-                                <p class="subtitle">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+                            <div class="card-head text-center">
+                                <span class="badge-title">Confident Swimmer</span>
+                                <h3 class="title text-center">R1250</h3>
+								 <h3 class="title text-center">Schnarkling</h3>
+								<h3 class="title text-center">2 Hours</h3>
+                                <p class="subtitle text-center">This is free-diving with sharks. Inspired by the iconic ragged-tooth sharks that roam the Shoal.</p>Included
                                 <div class="price-wrap">
                                     <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
                                     <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
@@ -67,11 +77,13 @@
                             </div>
 
                             <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Excepteur sint occaecat</li>
-                                <li><i class="bi bi-check-circle"></i>Cupidatat non proident</li>
-                                <li><i class="bi bi-check-circle"></i>Sunt in culpa qui officia</li>
-                                <li><i class="bi bi-check-circle"></i>Deserunt mollit anim id</li>
-                                <li><i class="bi bi-check-circle"></i>Est laborum commodo</li>
+                                <li><i class="bi bi-check-circle"></i>Boat Launch</li>
+                                <li><i class="bi bi-check-circle"></i>Briefing</li>
+                                <li><i class="bi bi-check-circle"></i>Mask</li>
+                                <li><i class="bi bi-check-circle"></i>Snorkel</li>
+                                <li><i class="bi bi-check-circle"></i>Fins</li>
+								<li><i class="bi bi-check-circle"></i>Wetsuit</li>
+								<li><i class="bi bi-check-circle"></i>Optional GoPro Footage By Ocean Warriors</li>
                             </ul>
 
                             <div class="cta">
