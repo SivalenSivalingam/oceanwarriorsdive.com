@@ -197,3 +197,4 @@
 
     <!-- bootstrap js -->
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/lib/aos/aos.js"></script>
