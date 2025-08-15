@@ -1,35 +1,6 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="header.ascx.cs" Inherits="uc_header" %>
 
-<header id="site-header" class="fixed-top">
-    <!-- top header -->
-    <section class="w3l-top-header">
-        <div class="container">
-            <div class="top-header-2">
-                <div class="d-grid main-top">
-                    <div class="top-headers">
-                        <ul>
-                            <li>
-                                <span class="fa fa-envelope-o"></span><a href="mailto:info@oceanwarriorsdive.com" class="mail mobile-email-size" >info@oceanwarriorsdive.com</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="top-headers">
-                        <ul>
-                            <li>
-                                <a href="https://www.facebook.com/OceanWarriorsDive"><span class="fa fa-facebook"></span></a>
-                            </li>
-                            <li>
-                                <a href="https://www.instagram.com/oceanwarriorsdive/"><span class="fa fa-instagram"></span></a>
-                            </li>
-                            <li class="mr-0">
-                                <a href="https://wa.me/+27825526112"><span class="fa fa-whatsapp"></span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+<header id="site-header" class="fixed-top nav-fixed">
     <!-- //top header -->
     <div class="container">
         <nav class="navbar navbar-expand-lg stroke px-0 pt-lg-0">
