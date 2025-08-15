@@ -19,13 +19,9 @@
             <div id="grids5-block" class="">
                 <div class="container-flid">
                     <h3 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Welcome to Ocean Warriors</b></h3>
-					<h4 class="text-center">Start Your Dive Journey, Get Certified. Get Adventurous, Learn to Dive Today. <br />Level Up Your Dive 					Skills, Become an Ocean Warrior.</h4>
-                   
-					
 					<section class="w3l-progressblock py-5">
                         <div class="container py-lg-5 py-md-3">
                             <div class="row">
-
                                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-4">
                                     <div class="row">
                                         <div class="col-lg-6 pr-lg-0 mb-lg-0 mb-4">
@@ -52,6 +48,8 @@
 					<section>
 						<div class="row">
 							<div class="col-lg-12">
+								<h4 class="text-center">Start Your Dive Journey, Get Certified. Get Adventurous, Learn to Dive Today. <br />Level Up Your Dive 					Skills, Become an Ocean Warrior.</h4>
+								<br /><br />
                     <p class="text-center">From shark diving the legendary Aliwal Shoal to chasing bait balls during the adrenaline fueled
                         <br />
                         Sardine Run along South Africa’s untamed Wild Coast this is your call to adventure.<br />
@@ -66,7 +64,8 @@
                         And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
                         A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br />
                         <br />
-                        Think we’re exaggerating? Dive into our gallery and see what you’re missing.
+                        Think we’re exaggerating? Dive into our gallery and see what you’re missing.<br />
+						 <a href="/gallery" class="btn btn-style btn-primary mt-md-5 mt-4">View Dive Gallery</a>
 
 
                     </p>
@@ -150,7 +149,7 @@
                                         Learn. Improve. Conquer.</a></h4>
                                     <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson, it’s a transformation.</p>
                                     <div class="blog-info mt-3">
-                                        <a href="#read">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+                                        <a href="/dive-courses">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
 
                                     </div>
                                 </div>
