@@ -1,6 +1,6 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="header.ascx.cs" Inherits="uc_header" %>
 
-<header id="site-header" class="fixed-top">
+<header id="site-header" class="fixed-top nav-fixed">
     <!-- //top header -->
     <div class="container">
         <nav class="navbar navbar-expand-lg stroke px-0 pt-lg-0">
