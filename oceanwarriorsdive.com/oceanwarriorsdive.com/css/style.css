@@ -18498,7 +18498,6 @@ h4.cover-para.w3ls {
 .blog-info {
   display: grid;
   grid-auto-flow: column;
-  justify-content: space-between;
   grid-gap: 20px;
 }
 
