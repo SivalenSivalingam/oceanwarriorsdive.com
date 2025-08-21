@@ -14,23 +14,31 @@
             </div>
         </div>
     </section>
+	<br /><br />
     <section class="py-5">
         <section id="pricing" class="pricing section">
-            <div class="container section-title" data-aos="fade-up">
-                <span class="description-title">Pricing</span>
-                <h2>Pricing</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <div class="container section-title text-center" data-aos="fade-up" >
+			<article class="price-card featured h-100 position-relative">
+                            <div class="ribbon text-center"><i class="bi bi-star-fill"></i>SA Residents - Only</div>
+				                        </article>
+				<br />
+                <span class="description-title">Learn, surf and live the stoke on South Africa’s best breaks</span>
+                <h2>Ride the Waves with Ocean Warriors</h2>
+				<br />
+                <p>Whether you’re a beginner looking to catch your first wave or an experienced surfer chasing the perfect swell,<br /> our surf packages offer customized coaching, safety support, and epic coastal experiences. Every session is designed to combine learning with adventure all while soaking in breathtaking ocean views.</p>
             </div>
             <br />
             <div class="container" data-aos="fade-up" data-aos-delay="100">
                 <div class="row gy-4">
 
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Starter</span>
-                                <h3 class="title">Lorem Dolor Sit</h3>
-                                <p class="subtitle">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris.</p>
+                            <div class="card-head text-center">
+                                <span class="badge-title">60-90 Minutes
+</span>
+                                <h3 class="title">Solo Surfer Starter for 1 person
+</h3>
+                                <p class="subtitle">Catch your first wave with expert guidance, endless ocean views and all gear included</p>
                                 <div class="price-wrap">
                                     <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
                                     <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
@@ -38,28 +46,38 @@
                             </div>
 
                             <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Lorem ipsum dolor amet</li>
-                                <li><i class="bi bi-check-circle"></i>Consectetur adipiscing elit</li>
-                                <li><i class="bi bi-check-circle"></i>Sed do eiusmod tempor</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Incididunt ut labore</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Dolore magna aliqua</li>
+                                <li><i class="bi bi-check-circle"></i>Soft Top Surfboard
+</li>
+                                <li><i class="bi bi-check-circle"></i>Basic water safety
+</li>
+                                <li><i class="bi bi-check-circle"></i>Incl rash vest and surfboard hire
+</li>
+                                <li><i class="bi bi-check-circle"></i>R475/session
+</li>
+                                <li><i class="bi bi-check-circle"></i>Book 3 lessons R1200
+</li>
+								  <li><i class="bi bi-check-circle"></i>All equipment is new
+
+</li>
                             </ul>
 
                             <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Get Started</a>
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
                             </div>
                         </article>
                         <!-- End Pricing Item -->
                     </div>
 
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
                         <article class="price-card featured h-100 position-relative">
                             <div class="ribbon"><i class="bi bi-star-fill"></i>Popular</div>
 
-                            <div class="card-head">
-                                <span class="badge-title">Pro</span>
-                                <h3 class="title">Cras Aenean Quam</h3>
-                                <p class="subtitle">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+                            <div class="card-head text-center">
+                                <span class="badge-title">60-90 minutes
+</span>
+                                <h3 class="title">Tribal Surfer for 2 - 4 people
+</h3>
+                                <p class="subtitle">Grab your friends or family for a shared surf adventure with expert coaching and all gear included</p>
                                 <div class="price-wrap">
                                     <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
                                     <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
@@ -67,26 +85,57 @@
                             </div>
 
                             <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Excepteur sint occaecat</li>
-                                <li><i class="bi bi-check-circle"></i>Cupidatat non proident</li>
-                                <li><i class="bi bi-check-circle"></i>Sunt in culpa qui officia</li>
-                                <li><i class="bi bi-check-circle"></i>Deserunt mollit anim id</li>
-                                <li><i class="bi bi-check-circle"></i>Est laborum commodo</li>
+                                <li><i class="bi bi-check-circle"></i>Soft Top Surfboard
+</li>
+                                <li><i class="bi bi-check-circle"></i>Basic water safety
+</li>
+                                <li><i class="bi bi-check-circle"></i>Incl rash vest and surfboard hire
+</li>
+                                <li><i class="bi bi-check-circle"></i>R375/session
+</li>
+                                <li><i class="bi bi-check-circle"></i>Book 3 lessons R900
+</li>
+								  <li><i class="bi bi-check-circle"></i>All equipment is new
+
+</li>
                             </ul>
 
                             <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Choose Pro</a>
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
                             </div>
                         </article>
                         <!-- End Pricing Item -->
                     </div>
 
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    
+
+                </div>
+
+            </div>
+        </section>
+    </section>
+	<br /><br />
+	
+	 <section class="py-5">
+        <section id="pricing" class="pricing section">
+            <div class="container section-title text-center" data-aos="fade-up" >
+                <span class="description-title">Stay in comfort steps from the surf and ocean</span>
+                <h2>Fully Equipped Rooms, Stunning Views & Easy Beach Access</h2>
+				<br />
+                <p>Relax and recharge in our hand-picked coastal stays with ocean views and modern amenities.</p>
+            </div>
+            <br />
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row gy-4">
+
+					<div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
                         <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Business</span>
-                                <h3 class="title">Porta Parturient</h3>
-                                <p class="subtitle">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse.</p>
+                            <div class="card-head text-center">
+                                <span class="badge-title">Stay with us
+</span>
+                                <h3 class="title">Accommodation
+</h3>
+                                <p class="subtitle">Comfortable and stylish accommodation just minutes from the waves, your home base for adventure</p>
                                 <div class="price-wrap">
                                     <span class="price price-monthly"><sup>$</sup>59<span class="period">/mo</span></span>
                                     <span class="price price-yearly"><sup>$</sup>590<span class="period">/yr</span></span>
@@ -94,24 +143,353 @@
                             </div>
 
                             <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Quam nihil molestiae</li>
-                                <li><i class="bi bi-check-circle"></i>Consequatur vel illum</li>
-                                <li><i class="bi bi-check-circle"></i>Qui dolorem eum fugiat</li>
-                                <li><i class="bi bi-check-circle"></i>Quis nostrum exercitationem</li>
-                                <li><i class="bi bi-check-circle"></i>Ullam corporis suscipit</li>
+                                <li><i class="bi bi-check-circle"></i>Shared bathroom R400<br />person sharing/night 
+</li>
+                                <li><i class="bi bi-check-circle"></i>Shared bathroom R600<br />person/night
+</li>
+                                <li><i class="bi bi-check-circle"></i>Ensuite R675<br />person sharing/night
+</li>
+                                <li><i class="bi bi-check-circle"></i>Ensuite R900<br />person/night
+</li>
+                              
                             </ul>
 
                             <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Start Business</a>
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
                             </div>
                         </article>
                         <!-- End Pricing Item -->
                     </div>
+					
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                        <article class="price-card h-100">
+                            <div class="card-head text-center">
+                                <span class="badge-title">Non Weekend
+</span>
+                                <h3 class="title">2 nights <br />Surfing Special Solo
+
+</h3>
+                                <p class="subtitle">Take a solo surfing getaway, expert guidance and the waves all to yourself</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>3 sessions + shared bathroom/person sharing
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R1800
+</li>
+                                <li><i class="bi bi-check-circle"></i>Weekend R2400
+								</li><div class="full-dotted-line"></div>
+                                <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R2000
+</li>
+								  <li><i class="bi bi-check-circle"></i>Weekend R2800
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
+                        <article class="price-card featured h-100 position-relative">
+                            <div class="ribbon"><i class="bi bi-star-fill"></i></div>
+
+                            <div class="card-head text-center">
+                                <span class="badge-title">Non weekend
+
+</span>
+                                <h3 class="title">2 nights Surfing Special minimum 2 pax
+</h3>
+                                <p class="subtitle">Grab a friend and ride the waves together with two nights of fun</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>3 sessions + shared bathroom/person sharing
+
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R1800
+</li>
+                                <li><i class="bi bi-check-circle"></i>Weekend R2400
+</li><div class="full-dotted-line"></div>
+                                <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
+
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R2200
+</li>
+								  <li><i class="bi bi-check-circle"></i>Weekend R2800
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    
 
                 </div>
 
             </div>
         </section>
     </section>
+	<br /><br />
+	<div class="full-dotted-line"></div>
+	<br /><br />
+	<section class="py-5">
+        <section id="pricing" class="pricing section">
+            <div class="container section-title text-center" data-aos="fade-up" >
+			
+				<br />
+               
+                <h2>NON - SA Resident</h2>
+				<br />
+               
+            </div>
+            <br />
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row gy-4">
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                        <article class="price-card h-100">
+                            <div class="card-head text-center">
+                                <span class="badge-title">60-90 Minutes
+</span>
+                                <h3 class="title">Solo Surfer Starter for 1 person
+</h3>
+                                <p class="subtitle">Catch your first wave with expert guidance, endless ocean views and all gear included</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>Soft Top Surfboard
+</li>
+                                <li><i class="bi bi-check-circle"></i>Basic water safety
+</li>
+                                <li><i class="bi bi-check-circle"></i>Incl rash vest and surfboard hire
+</li>
+                                <li><i class="bi bi-check-circle"></i>R675/session
+</li>
+                                <li><i class="bi bi-check-circle"></i>Book 3 lessons R1800
+</li>
+								  <li><i class="bi bi-check-circle"></i>All equipment is new
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
+                        <article class="price-card featured h-100 position-relative">
+                            <div class="ribbon"><i class="bi bi-star-fill"></i>Popular</div>
+
+                            <div class="card-head text-center">
+                                <span class="badge-title">60-90 minutes
+</span>
+                                <h3 class="title">Tribal Surfer for 2 - 4 people
+</h3>
+                                <p class="subtitle">Grab your friends or family for a shared surf adventure with expert coaching and all gear included</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>Soft Top Surfboard
+</li>
+                                <li><i class="bi bi-check-circle"></i>Basic water safety
+</li>
+                                <li><i class="bi bi-check-circle"></i>Incl rash vest and surfboard hire
+</li>
+                                <li><i class="bi bi-check-circle"></i>R550/session
+</li>
+                                <li><i class="bi bi-check-circle"></i>Book 3 lessons R1450
+</li>
+								  <li><i class="bi bi-check-circle"></i>All equipment is new
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    
+
+                </div>
+
+            </div>
+        </section>
+    </section>
+	<br /><br />
+	
+	 <section class="py-5">
+        <section id="pricing" class="pricing section">
+            <div class="container section-title text-center" data-aos="fade-up" >
+                <span class="description-title">Stay in comfort steps from the surf and ocean</span>
+                <h2>Fully Equipped Rooms, Stunning Views & Easy Beach Access</h2>
+				<br />
+                <p>Relax and recharge in our hand-picked coastal stays with ocean views and modern amenities.</p>
+            </div>
+            <br />
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row gy-4">
+
+					<div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                        <article class="price-card h-100">
+                            <div class="card-head text-center">
+                                <span class="badge-title">Stay with us
+</span>
+                                <h3 class="title">Accommodation
+</h3>
+                                <p class="subtitle">Comfortable and stylish accommodation just minutes from the waves, your home base for adventure</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>59<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>590<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>Shared bathroom R700<br />person sharing/night 
+</li>
+                                <li><i class="bi bi-check-circle"></i>Shared bathroom R900<br />person/night
+</li>
+                                <li><i class="bi bi-check-circle"></i>Ensuite R875<br />person sharing/night
+</li>
+                                <li><i class="bi bi-check-circle"></i>Ensuite R1400<br />person/night
+</li>
+                              
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+					
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                        <article class="price-card h-100">
+                            <div class="card-head text-center">
+                                <span class="badge-title">Non Weekend
+</span>
+                                <h3 class="title">2 nights <br />Surfing Special Solo
+
+</h3>
+                                <p class="subtitle">Take a solo surfing getaway, expert guidance and the waves all to yourself</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>3 sessions + shared bathroom/person sharing
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R
+</li>
+                                <li><i class="bi bi-check-circle"></i>Weekend R
+								</li><div class="full-dotted-line"></div>
+                                <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R
+</li>
+								  <li><i class="bi bi-check-circle"></i>Weekend R
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
+                        <article class="price-card featured h-100 position-relative">
+                            <div class="ribbon"><i class="bi bi-star-fill"></i></div>
+
+                            <div class="card-head text-center">
+                                <span class="badge-title">Non weekend
+
+</span>
+                                <h3 class="title">2 nights Surfing Special minimum 2 pax
+</h3>
+                                <p class="subtitle">Grab a friend and ride the waves together with two nights of fun</p>
+                                <div class="price-wrap">
+                                    <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
+                                    <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
+                                </div>
+                            </div>
+
+                            <ul class="feature-list list-unstyled mb-4">
+                                <li><i class="bi bi-check-circle"></i>3 sessions + shared bathroom/person sharing
+
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R
+</li>
+                                <li><i class="bi bi-check-circle"></i>Weekend R
+</li><div class="full-dotted-line"></div>
+                                <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
+
+
+</li>
+                                <li><i class="bi bi-check-circle"></i>Midweek R
+</li>
+								  <li><i class="bi bi-check-circle"></i>Weekend R
+
+</li>
+                            </ul>
+
+                            <div class="cta">
+                                <a href="/contact" class="btn btn-choose w-100">Book Now</a>
+                            </div>
+                        </article>
+                        <!-- End Pricing Item -->
+                    </div>
+
+                    
+
+                </div>
+
+            </div>
+        </section>
+    </section>
+	
 </asp:Content>
 

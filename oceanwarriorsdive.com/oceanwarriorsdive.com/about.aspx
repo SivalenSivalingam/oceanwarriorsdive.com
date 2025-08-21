@@ -38,39 +38,29 @@ Led by world champion lifeguard Julian Taylor, our team of expert skippers and d
   <div class="container py-md-5">
   <!-- /content-6-section -->
     <div class="content-12-mian text-center">
-      <h5 class="sub-hnytitle mb-2">Ocean Warrior Leader</h5>
+      <h5 class="sub-hnytitle mb-2">Ocean Warrior Founder & Expedition Leader</h5>
       <h3 class="w3l-hnytitle mb-5">Julian Taylor</h3>
 	  </div>
        <div class="content-info-in row">
-           <div class="content-gd col-lg-9 pr-lg-5">
-               <p>Julian Taylor is a South African world champion lifeguard, specifically known for his achievements in surf lifesaving and open water swimming. He is a former South African swimming and surf lifesaving captain and has won the Four Elements Conservation Ocean Challenge in Durban. He is also involved with Ocean Warriors Dive, a program that brings together world champions in ocean sports. </p>
+           <div class="content-gd col-lg-6 pr-lg-5 ">
+               <p class="text-center">Julian Taylor is a South African world champion lifeguard, specifically known for his achievements in surf lifesaving and open water swimming. He is a former South African swimming and surf lifesaving captain and has won the Four Elements Conservation Ocean Challenge in Durban. He is also involved with Ocean Warriors Dive, a program that brings together world champions in ocean sports. </p>
 			   <br />
-			   
-			   <p><b> Here's a more detailed look at his accomplishments:</b><br />
-<b> Surf Lifesaving:</b><br />
-Taylor is recognized as a world champion lifeguard and has been involved with the Durban Surf Lifesaving Club, which has achieved global recognition in the sport. <br />
-<b>Open Water Swimming:</b><br />
-He has competed in and won various open water swimming events, including the Four Elements Ocean Challenge. <br />
-<b>Ocean Warriors:</b><br />
-He is a key figure in the Ocean Warriors program, which celebrates athletes excelling in ocean sports. <br />
-<b>Other Activities:</b><br />
-He has also participated in endurance swims, such as a swim from eManzimtoti to Warner Beach to raise awareness for a school. <br />
-<b>Age is just a number:</b><br />
-				  At 52, he still competes and beats younger athletes in swimming competitions</p>
+			   <div class="discover text-center">
+        <a href="tel:0827816804" class="btn btn-style btn-primary mt-md-5 mt-4">Get in touch with Julian</a>
+           </div>
+			 
 			   
 			   
 		   </div>
 		   
-           <div class="content-gd col-lg-3">
+           <div class="col-lg-6 text-center">
                    <div class="team-img">
-					   <br /><br />
-                                <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image">
+					 
+                                <img src="/images/julian-lifeguard.jpg" alt="" class="radius-image" style="height:283px">
                             </div>
                     </div>
            </div>
-           <div class="discover">
-        <a href="tel:0827816804" class="btn btn-style btn-primary mt-md-5 mt-4">Get in touch with Julian</a>
-           </div>
+           
        </div>
        
 

@@ -1,12 +1,40 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="diving-pricing.aspx.cs" Inherits="diving_pricing" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="diving-pricing.aspx.cs" Inherits="diving_pricing" %>
 
 <asp:Content ID="Head" ContentPlaceHolderID="Head" runat="Server">
     <title>Diving Pricing - Ocean Warriors Dive</title>
+   <style>
+        h1, h2, h3 {
+            text-align: center;
+            color: #004466;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        th {
+            background: #004466;
+            color: #fff;
+        }
+        .section {
+            margin-top: 40px;
+        }
+    </style>
 </asp:Content>
+
 <asp:Content ID="Body" ContentPlaceHolderID="Body" runat="Server">
-       <section class="w3l-about-breadcrumb">
+
+    <!-- Full Width Banner -->
+    <section class="w3l-about-breadcrumb">
         <div class="breadcrumb-bg breadcrumb-bg-about py-5">
-            <div class="container pt-lg-5 pt-md-3 p-lg-4 pb-md-3 my-lg-5">
+            <div class="pt-lg-5 pt-md-3 p-lg-4 pb-md-3 my-lg-5">
                 <ul class="breadcrumbs-custom-path mt-5 pt-lg-5 text-center">
                     <li><a href="/home">Home</a></li>
                     <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span>Diving Pricing</li>
@@ -14,105 +42,202 @@
             </div>
         </div>
     </section>
-    <section class="py-5">
-        <section id="pricing" class="pricing section">
-            <div class="container section-title" data-aos="fade-up">
-                <span class="description-title"></span>
-                <h2 class="text-center">Dive & Accomodation Packages</h2>
-                <p class="text-center">Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+<br /><br />
+    <!-- Pricing Content -->
+    <section class="pricing-content py-5">
+        <div class="container">
+
+            <h1>Dive Rates and Accommodation Pricings</h1>
+
+            <!-- Ocean Warriors Packages -->
+
+				 <div class="section">
+    <h2>Accommodation Options</h2>
+    <table>
+      <tr>
+        <th>Type</th>
+        <th>Sharing</th>
+        <th>Single</th>
+      </tr>
+      <tr>
+        <td>Highrocks Luxury</td>
+        <td>R 700 / pp sharing</td>
+        <td>R 1 200 single occupancy</td>
+      </tr>
+      <tr>
+        <td>Widdy's Beach Club</td>
+        <td>R 500 / pp sharing</td>
+        <td>R 800 single occupancy</td>
+      </tr>
+      <tr>
+        <td>Inclusive</td>
+        <td colspan="2">R 300</td>
+      </tr>
+    </table>
+  </div>
+		<br />		
+			 <div class="section">
+				 <h2>Ocean Warrior Package</h2>
+  <table>
+	   <tr>
+                        <th>Package</th>
+                        <th>7 Nights</th>
+                        
+                    </tr>
+				<tr><td>8 Reef or Wreck</td><td>R 6 000,00</td></tr>
+                    <tr><td>4 Shark</td><td>R 6 400,00 </td></tr>
+                  
+                    <tr><td>Food and Accomodation</td><td>R 9 800,00</td></tr>
+                    <tr><td>Total Package</td><td colspan="2">R 22 200,00</td></tr>
+			 </table>	
+				<br /><br />
+                <h2>Package Specials</h2>
+                <table>
+                    <tr>
+                        <th>Package</th>
+                        <th>Ensuite Deluxe</th>
+                        <th>Shared</th>
+                    </tr>
+                    <tr><td>2 nights 4 dives</td><td>R 5 000,00</td><td>R 4 300,00</td></tr>
+                    <tr><td>3 nights 6 dives</td><td>R 7 500,00</td><td>R 6 600,00</td></tr>
+                    <tr><td>5 nights 10 dives</td><td>R 12 500,00</td><td>R 11 00,00</td></tr>
+                    <tr><td>7 nights 14 dives</td><td>R 17 500,00</td><td>R 15 400,00</td></tr>
+                    
+                </table>
             </div>
-            <br /><br />
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-                <div class="row gy-4">
+			<br /><br />
+			<div class="section">
+    <h2>Extras</h2>
+    <table>
+      <tr>
+        <th>Item</th>
+        <th>Price</th>
+      </tr>
+      <tr><td>BC Reg and Cycl</td><td>R 250,00</td></tr>
+      <tr><td>Air Fill</td><td>R 100,00</td></tr>
+      <tr><td>Nitrox</td><td>R 150,00</td></tr>
+    </table>
+  </div>
+<br /><br />
+<div class="section">
+    <h2>Basic Day Rate Schedule</h2>
+    <table>
+      <tr>
+        <th>Activity</th>
+        <th>Price</th>
+        
+      </tr>
+		<tr>
+        <td>Reef or Wreck Dive</td>
+		  <td>R850</td>
+       
+      </tr>
+      <tr>
+        <td>Shark Baited Dive</td>
+        <td>R1750</td>
 
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                        <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Starter</span>
-                                <h3 class="title">Lorem Dolor Sit</h3>
-                                <p class="subtitle">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
-                                </div>
-                            </div>
+        
+      </tr>
+      <tr>
+        <td>Snorkel Excursion Reef</td>
+        <td>R750</td>
+        
+      </tr>
+		<tr>
+        <td>Shark Snorkel Excursion</td>
+        <td>R1650</td>
 
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Lorem ipsum dolor amet</li>
-                                <li><i class="bi bi-check-circle"></i>Consectetur adipiscing elit</li>
-                                <li><i class="bi bi-check-circle"></i>Sed do eiusmod tempor</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Incididunt ut labore</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Dolore magna aliqua</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Get Started</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
-                    </div>
-
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
-                        <article class="price-card featured h-100 position-relative">
-                            <div class="ribbon"><i class="bi bi-star-fill"></i>Popular</div>
-
-                            <div class="card-head">
-                                <span class="badge-title">Pro</span>
-                                <h3 class="title">Cras Aenean Quam</h3>
-                                <p class="subtitle">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
-                                </div>
-                            </div>
-
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Excepteur sint occaecat</li>
-                                <li><i class="bi bi-check-circle"></i>Cupidatat non proident</li>
-                                <li><i class="bi bi-check-circle"></i>Sunt in culpa qui officia</li>
-                                <li><i class="bi bi-check-circle"></i>Deserunt mollit anim id</li>
-                                <li><i class="bi bi-check-circle"></i>Est laborum commodo</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Choose Pro</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
-                    </div>
-
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                        <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Business</span>
-                                <h3 class="title">Porta Parturient</h3>
-                                <p class="subtitle">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>59<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>590<span class="period">/yr</span></span>
-                                </div>
-                            </div>
-
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Quam nihil molestiae</li>
-                                <li><i class="bi bi-check-circle"></i>Consequatur vel illum</li>
-                                <li><i class="bi bi-check-circle"></i>Qui dolorem eum fugiat</li>
-                                <li><i class="bi bi-check-circle"></i>Quis nostrum exercitationem</li>
-                                <li><i class="bi bi-check-circle"></i>Ullam corporis suscipit</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Start Business</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
+        
+      </tr>
+      <tr>
+        <td>OW1</td>
+        <td>R7500</td>
+       
+        
+      </tr>
+      <tr>
+        <td>AR</td>
+        <td>R7900</td>
+     
+       
+      </tr>
+      <tr>
+        <td>Discover</td>
+        <td>R1950</td>
+    
+       
+      </tr>
+      <tr>
+        <td>Rescue</td>
+        <td>R7500</td>
+   
+        
+      </tr>
+      <tr>
+        <td>First Aid Oxygen Provider</td>
+        <td>R2750</td>
+      
+        
+      </tr>
+      <tr>
+        <td>Nitrox</td>
+        <td>-</td>
+     
+       
+      </tr>
+      <tr>
+        <td>Dive Master</td>
+        <td>-</td>
+   
+        
+      </tr>
+		<th>Extras</th>
+		<tr>
+        <td>Gear Full</td>
+        <td>R500</td>
+    
+      </tr>
+		<tr>
+        <td>BCD</td>
+        <td>R100</td>
+  
+      </tr>
+		<tr>
+        <td>Reg</td>
+        <td>R100</td>
+   
+      </tr>
+		<tr>
+        <td>Cylinder</td>
+        <td>R140</td>
+      
+      </tr>
+		<tr>
+        <td>Weight</td>
+        <td>R250</td>
+    
+      </tr>
+		<tr>
+        <td>Wetsuit</td>
+        <td>R75</td>
+ 
+      </tr>
+		<tr>
+        <td>Mask</td>
+        <td>R75</td>
+   
+      </tr>
+		<tr>
+        <td>Fins</td>
+        <td>R75</td>
+    
+      </tr>
+    </table>
+  </div>
+<br /><br />
+  
+ 
+        </div>
     </section>
+
 </asp:Content>
-
-

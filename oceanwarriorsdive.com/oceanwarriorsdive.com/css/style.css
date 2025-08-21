@@ -44,6 +44,20 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+.feature-list li.dotted-full {
+    position: relative;
+    padding-bottom: 10px; /* space between text and line */
+    display: flex;
+    align-items: center;
+}
+
+.full-dotted-line {
+    border-bottom: 1px dotted #000; /* dotted line */
+    width: 100%;                     /* full width of container */
+    margin: 10px 0;                  /* spacing above and below line */
+}
+
 article,
 aside,
 figcaption,

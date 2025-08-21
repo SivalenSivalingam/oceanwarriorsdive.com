@@ -139,7 +139,7 @@
                                             </div>
 											<div class="stat-item">
                                                 <div class="stat-label">Cost</div>
-												<div class="stat-number">R6750</div>
+												<div class="stat-number">R1950</div>
                                             </div>
                                             
                                         </div>
@@ -350,7 +350,7 @@
                                             </div>
                                              <div class="stat-item">
                                                 <div class="stat-label">Cost</div>
-												<div class="stat-number">TBA</div>
+												<div class="stat-number">R2750</div>
                                             </div>
                                         </div>
 
@@ -573,7 +573,7 @@
                                             </div>
                                              <div class="stat-item">
                                                 <div class="stat-label">Cost</div>
-												<div class="stat-number">R85 000</div>
+												<div class="stat-number">R15 500</div>
                                             </div>
                                         </div>
 

@@ -1,9 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpage.master" AutoEventWireup="true" CodeFile="surfing-pricing.aspx.cs" Inherits="surfing_pricing" %>
 
 <asp:Content ID="Head" ContentPlaceHolderID="Head" runat="Server">
-    <title>Surfing Pricing - Ocean Warriors Dive</title>
+    <title>Surfing Pricing - Ocean Warriors Surf</title>
 </asp:Content>
+
 <asp:Content ID="Body" ContentPlaceHolderID="Body" runat="Server">
+    <!-- Banner Section -->
     <section class="w3l-about-breadcrumb">
         <div class="breadcrumb-bg breadcrumb-bg-about py-5">
             <div class="container pt-lg-5 pt-md-3 p-lg-4 pb-md-3 my-lg-5">
@@ -14,104 +16,101 @@
             </div>
         </div>
     </section>
+
+    <!-- Surfing Pricing Section -->
     <section class="py-5">
-        <section id="pricing" class="pricing section">
-            <div class="container section-title" data-aos="fade-up">
-                <span class="description-title">Pricing</span>
-                <h2>Pricing</h2>
-                <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-            </div>
-            <br />
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-                <div class="row gy-4">
-
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                        <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Starter</span>
-                                <h3 class="title">Lorem Dolor Sit</h3>
-                                <p class="subtitle">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>12<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>120<span class="period">/yr</span></span>
-                                </div>
-                            </div>
-
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Lorem ipsum dolor amet</li>
-                                <li><i class="bi bi-check-circle"></i>Consectetur adipiscing elit</li>
-                                <li><i class="bi bi-check-circle"></i>Sed do eiusmod tempor</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Incididunt ut labore</li>
-                                <li class="muted"><i class="bi bi-dash-circle"></i>Dolore magna aliqua</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Get Started</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
+        <div class="container py-lg-5 py-md-4">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="mb-4 text-center">Surfing Pricing</h2>
+                    <br /><br />
+                    <div class="table-responsive">
+                        <table class="table table-bordered text-center align-middle">
+							 <h2 class="mb-4 text-center">Accomodation Options</h2>
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Type</th>
+                                    <th>Ensuite</th>
+                                    <th>Shared</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr> 
+									<td>Widdy's Beach Club</td>
+                                    <td>R 700 / pp sharing</td>
+                                    <td>R 500 / pp sharing</td>
+                                </tr>
+                                <tr>
+                                      <td>Highrocks Luxury</td>
+                                    <td>R 1 200 single occupancy</td>
+                                    <td>R 800 single occupancy</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+<br /><br />
+                    <div class="table-responsive mt-4">
+                        <table class="table table-bordered text-center align-middle">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Package</th>
+                                    <th>Rate</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Full Board</td>
+                                    <td>R 750,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Breakfast</td>
+                                    <td>R 200,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Surfing</td>
+                                    <td>R 250,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Boards</td>
+                                    <td>R 100,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Wetsuits</td>
+                                    <td>R 75,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Accommodation (Per Day)</td>
+                                    <td>R 1 000,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Full Board (Per Day)</td>
+                                    <td>R 750,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Yoga / Massage</td>
+                                    <td>R 400,00</td>
+                                </tr>
+                                <tr>
+                                    <td>Transport</td>
+                                    <td>R 250,00</td>
+                                </tr>
+                                <tr class="table-info fw-bold">
+                                    <td>Day Rate</td>
+                                    <td>R 2 825,00</td>
+                                </tr>
+                                <tr class="table-success fw-bold">
+                                    <td>7 Nights Package</td>
+                                    <td>R 19 775,00</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
 
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
-                        <article class="price-card featured h-100 position-relative">
-                            <div class="ribbon"><i class="bi bi-star-fill"></i>Popular</div>
-
-                            <div class="card-head">
-                                <span class="badge-title">Pro</span>
-                                <h3 class="title">Cras Aenean Quam</h3>
-                                <p class="subtitle">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>29<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>290<span class="period">/yr</span></span>
-                                </div>
-                            </div>
-
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Excepteur sint occaecat</li>
-                                <li><i class="bi bi-check-circle"></i>Cupidatat non proident</li>
-                                <li><i class="bi bi-check-circle"></i>Sunt in culpa qui officia</li>
-                                <li><i class="bi bi-check-circle"></i>Deserunt mollit anim id</li>
-                                <li><i class="bi bi-check-circle"></i>Est laborum commodo</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Choose Pro</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
+                    <div class="text-center mt-4">
+                        <a href="/booking" class="btn btn-primary btn-lg">Book Now</a>
                     </div>
-
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                        <article class="price-card h-100">
-                            <div class="card-head">
-                                <span class="badge-title">Business</span>
-                                <h3 class="title">Porta Parturient</h3>
-                                <p class="subtitle">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse.</p>
-                                <div class="price-wrap">
-                                    <span class="price price-monthly"><sup>$</sup>59<span class="period">/mo</span></span>
-                                    <span class="price price-yearly"><sup>$</sup>590<span class="period">/yr</span></span>
-                                </div>
-                            </div>
-
-                            <ul class="feature-list list-unstyled mb-4">
-                                <li><i class="bi bi-check-circle"></i>Quam nihil molestiae</li>
-                                <li><i class="bi bi-check-circle"></i>Consequatur vel illum</li>
-                                <li><i class="bi bi-check-circle"></i>Qui dolorem eum fugiat</li>
-                                <li><i class="bi bi-check-circle"></i>Quis nostrum exercitationem</li>
-                                <li><i class="bi bi-check-circle"></i>Ullam corporis suscipit</li>
-                            </ul>
-
-                            <div class="cta">
-                                <a href="#" class="btn btn-choose w-100">Start Business</a>
-                            </div>
-                        </article>
-                        <!-- End Pricing Item -->
-                    </div>
-
                 </div>
-
             </div>
-        </section>
+        </div>
     </section>
 </asp:Content>
-

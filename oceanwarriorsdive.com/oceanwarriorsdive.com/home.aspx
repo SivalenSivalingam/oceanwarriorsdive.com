@@ -4,13 +4,53 @@
     <title>Home - Ocean Warriors Dive</title>
 </asp:Content>
 <asp:Content ID="Body" ContentPlaceHolderID="Body" runat="Server">
-    <section id="home" class="w3l-banner py-5">
-        <div class="container py-lg-5 py-md-4 mt-lg-0 mt-5">
-            <div class="py-lg-5 py-4 mt-4">
-            </div>
-        </div>
-    </section>
+	<style>
+  /* Prevent horizontal scrolling on the page */
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
 
+  .video-banner {
+    position: relative;
+    width: 100%;
+    height: 96vh; /* full screen */
+    overflow: hidden;
+    background: black;
+  }
+
+  .video-banner iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;   /* fill width, no overflow */
+    height: 100%;  /* fill height */
+    min-width: 100%; /* ensures no horizontal scroll */
+    min-height: 100%; /* ensures full coverage */
+    transform: translate(-50%, -50%);
+    border: none;
+    pointer-events: none;
+  }
+
+  /* Mobile optimization */
+  @media (max-width: 768px) {
+    .video-banner iframe {
+      width: 100vw;
+      height: 56.25vw; /* 16:9 ratio */
+      max-width: 100vw;
+      max-height: 177.78vw; /* adjust for tall screens */
+    }
+  }
+</style>
+
+<div class="video-banner">
+  <iframe 
+    src="https://www.youtube.com/embed/A_aWH8h5gV0?autoplay=1&mute=1&controls=0&loop=1&playlist=A_aWH8h5gV0&rel=0&modestbranding=1&playsinline=1"
+    allow="autoplay; encrypted-media"
+    allowfullscreen>
+  </iframe>
+</div>
     <br />
     <br />
     <section>
@@ -18,6 +58,7 @@
             <!-- grids block 5 -->
             <div id="grids5-block" class="">
                 <div class="container-flid">
+					<br />
                     <h3 class="w3l-hnytitle text-center mb-md-5 mb-4"><b>Welcome to Ocean Warriors</b></h3>
 					<section class="w3l-progressblock py-5">
                         <div class="container py-lg-5 py-md-3">
@@ -58,10 +99,10 @@
                         <br />
                         Ocean Warriors Dive offers world-class ocean experiences for every skill level.<br />
                         <br />
-                        Join us for PADI scuba diving courses, marine photography workshops and surfing lessons or<br />
-                        simply soak in the view from our Beach House pool after a thrilling shark or reef dive.<br />
+                        Join us for PADI scuba diving courses, marine photography workshops and surfing lessons <br /> which will be lead by ur dive instructor Rae Du Plesis or<br />
+                        simply soak in the view from Widdy's Beach Club pool after a thrilling shark or reef dive.<br />
                         <br />
-                        And in 2025, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
+                        And in 2026, be part of the ultimate bucket-list event, the Sardine Run Experience.<br />
                         A once-in-a-lifetime spectacle for divers, photographers and true ocean warriors.<br />
                         <br />
                         Think we’re exaggerating? Dive into our gallery and see what you’re missing.<br />
@@ -85,8 +126,8 @@
                                     <h4 class="text-center"><a href="blog-single.html ">Scuba Diving
                                         <br />
                                         Explore Beneath the Surface</a></h4>
-                                    <p class="mt-3 text-center">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life. From the legendary Aliwal Shoal to hidden underwater gems, every dive is a new chapter in your ocean story.</p>
-                                    <div class="blog-info mt-3">
+                                    <p class="mt-3 text-center">Dive into vibrant reefs, dramatic wrecks, and close encounters with marine life led by Rae Du Plesis our resident dive instructor.</p>
+                                    <div class="blog-info mt-3" style="text-align: center;">
                                         <a href="#read">Start Your Dive Adventure&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
 
                                     </div>
@@ -104,9 +145,9 @@
 
                                     <h4 class="text-center"><a href="blog-single.html">Marine Photography<br />
                                         Capture the Ocean’s Soul</a></h4>
-                                    <p class="mt-3 text-center">Take your camera below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
-                                    <div class="blog-info mt-3">
-                                        <a href="#read" class="text-center">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+                                    <p class="mt-3 text-center">Join Rae below the waves and bring back more than just memories. Learn from seasoned pros while photographing sharks, dolphins, and South Africa’s rich marine life in their natural habitat.</p>
+                                    <div class="blog-info mt-3" style="text-align: center;">
+                                        <a href="#read" style="display: inline-block;">Join a Photography Dive&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
 
                                     </div>
                                 </div>
@@ -128,8 +169,8 @@
                                         <br />
                                         Ride the Warrior Waves</a></h4>
                                     <p class="mt-3 text-center">Whether you’re starting out or chasing bigger swells, our surf packages combine expert coaching, local wave knowledge, and all the gear you need to master the ocean’s rhythm.</p>
-                                    <div class="blog-info mt-3">
-                                        <a href="#read" class="text-center">Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
+                                    <div class="blog-info mt-3" style="text-align: center;">
+                                        <a href="#read" style="display: inline-block;" >Surf With Us&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
 
                                     </div>
                                 </div>
@@ -147,7 +188,7 @@
                                     <h4 class="text-center"><a href="blog-single.html">Courses
                                         <br />
                                         Learn. Improve. Conquer.</a></h4>
-                                    <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect for the ocean. This isn’t just a lesson, it’s a transformation.</p>
+                                    <p class="mt-3 text-center">From PADI dive certifications to beginner and advanced surf coaching, we offer training that builds confidence, skills, and respect led by our resident dive instructor Rae Du Plesis. </p>
                                     <div class="blog-info mt-3">
                                         <a href="/dive-courses">View Courses & Packages&nbsp; <span class="fa fa-arrow-right mr-1"></span></a>
 
@@ -167,7 +208,7 @@
             <div class="row">
                 <div class="col-lg-5 about-right-faq align-self pr-lg-5">
                     <h5 class="sub-hnytitle mb-2">A Front-Row Seat </h5>
-                    <h3 class="w3l-hnytitle">The Sardine Run – Nature’s Greatest Show</h3>
+                    <h3 class="w3l-hnytitle">The Sardine Run – The worlds largest biomass migration</h3>
                     <p class="mt-4">Experience the thrill of millions of sardines migrating along the Wild Coast, pursued by whales, dolphins, sharks, and seabirds. It’s a spectacle so powerful, it has to be seen to be believed!</p>
                     <a href="/sardinerun" class="btn btn-style btn-primary mt-md-5 mt-4">Book Your Sardine Run Experience</a>
                 </div>
@@ -404,7 +445,7 @@
     <div class="middle py-5">
         <div class="container py-lg-5 py-md-4 py-3">
             <div class="welcome-left text-left">
-                <h3 class="w3l-hnytitle">Highrocks Beach House</h3>
+                <h3 class="w3l-hnytitle">Widdy's Beach Club & Highrocks Beach House</h3>
                 <p>
                     Highrocks is a 5 bedroom (4 with Aircon), 4 ensuite, bespoke beach house, repeatedly voted as a Top Ten Getaway Beach House by Getaway Magazine.
                     Just a cruisey 39-minute drive South of Durban, you’ll be greeted with expansive ocean and beach views for as far as the eye can see.
