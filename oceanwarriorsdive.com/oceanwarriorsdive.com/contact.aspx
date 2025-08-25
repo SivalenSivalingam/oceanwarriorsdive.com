@@ -76,18 +76,6 @@
             </div>
             <br />
             <div class="row">
-                <div class="col-md-12">
-                    Activities<br />
-                    <asp:CheckBox runat="server" ID="SurfingLesson" Text="&nbsp;Surfing Lesson" /><br />
-                    <asp:CheckBox runat="server" ID="GuidedWalksOrHikes" Text="&nbsp;Guided Walks/Hikes" /><br />
-                    <asp:CheckBox runat="server" ID="DietaryRequirement" Text="&nbsp;Dietary Requirement" /><br />
-                    <asp:CheckBox runat="server" ID="NightFishing" Text="&nbsp;Night Fishing" /><br />
-                    <asp:CheckBox runat="server" ID="GuidedKayakingTour" Text="&nbsp;Guided Kayaking Tour" /><br />
-                    <asp:CheckBox runat="server" ID="PadiSpecialtyCourse" Text="&nbsp;Padi Specialty Course" /><br />
-                </div>
-            </div>
-            <br />
-            <div class="row">
                 <div class="col-md-6">
                     <asp:Label runat="server" ID="Test"></asp:Label><asp:TextBox runat="server" ID="Answer" Width="80" PlaceHolder="?"></asp:TextBox>
                 </div>

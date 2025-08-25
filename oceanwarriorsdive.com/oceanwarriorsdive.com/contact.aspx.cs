@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
-public partial class contact : System.Web.UI.Page
+public partial class contact : Page
 {
     string errorMessage = "Oops! An error has occurred while sending the enquiry message. Please contact us via telephone/mobile or directly email us. We apologise for any inconvenience caused.";
     string successMessage = "Your message has been sent successfully. We will get back to you as soon as possible. Thank You.";
@@ -93,8 +91,7 @@ public partial class contact : System.Web.UI.Page
                 { "Country", Country.Text},
                 { "Number Of People", NumberOfPeople.Text},
                 { "Dates", Dates.Text},
-                { "Message", Message.Text},
-                { "Activities", string.Join(", ", GetSelectedActivities())},
+                { "Message", Message.Text}
             };
 
             email.SendMail(
@@ -108,12 +105,6 @@ public partial class contact : System.Web.UI.Page
             NumberOfPeople.Text = "";
             Dates.Text = "";
             Message.Text = "";
-            SurfingLesson.Checked = false;
-            GuidedWalksOrHikes.Checked = false;
-            DietaryRequirement.Checked = false;
-            NightFishing.Checked = false;
-            GuidedKayakingTour.Checked = false;
-            PadiSpecialtyCourse.Checked = false;
             CreateTest();
 
             Status.ForeColor = System.Drawing.Color.Green;
@@ -125,30 +116,5 @@ public partial class contact : System.Web.UI.Page
             CreateTest();
             return;
         }
-    }
-
-    protected List<string> GetSelectedActivities()
-    {
-        List<string> selectedActivities = new List<string>();
-
-        if (SurfingLesson.Checked)
-            selectedActivities.Add("Surfing Lesson");
-
-        if (GuidedWalksOrHikes.Checked)
-            selectedActivities.Add("Guided Walks/Hikes");
-
-        if (DietaryRequirement.Checked)
-            selectedActivities.Add("Dietary Requirement");
-
-        if (NightFishing.Checked)
-            selectedActivities.Add("Night Fishing");
-
-        if (GuidedKayakingTour.Checked)
-            selectedActivities.Add("Guided Kayaking Tour");
-
-        if (PadiSpecialtyCourse.Checked)
-            selectedActivities.Add("Padi Specialty Course");
-
-        return selectedActivities;
     }
 }
