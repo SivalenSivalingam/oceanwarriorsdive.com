@@ -293,6 +293,107 @@
                                 </div>
 								
 								</div>
+							<br /><br />
+							    <h1 class="text-center">Accomodation - Widdy's Beach Club</h1>
+							<br /><br />
+								<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/49.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/50.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								 <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/51.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								
+								</div>
+							<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/52.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/53.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								 <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/54.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								
+								</div>
+								<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/55.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/56.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								 <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/57.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								
+								</div>
+							<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/58.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/59.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								 <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/60.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								
+								</div>
+							<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/61.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/62.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								 <div class="col-lg-4">
+									  
+									  <br />
+                                    <img src="/images/gallery/63.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								
+								</div>
+							<div class="row">
+                                <div class="col-lg-4">
+									
+									<br />
+                                    <img src="/images/gallery/64.jpg" alt="" class="img-fluid radius-image">
+                                </div>
+								  
+								</div>
                         </div>
                     </section>
   <!-- //services-section -->

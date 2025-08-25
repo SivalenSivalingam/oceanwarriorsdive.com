@@ -447,11 +447,12 @@
             <div class="welcome-left text-left">
                 <h3 class="w3l-hnytitle">Widdy's Beach Club & Highrocks Beach House</h3>
                 <p>
-                    Highrocks is a 5 bedroom (4 with Aircon), 4 ensuite, bespoke beach house, repeatedly voted as a Top Ten Getaway Beach House by Getaway Magazine.
+                   Widdy's is an 8 bedroom facility and Highrocks is a 5 bedroom which in total can accomodate up to 30 people.
                     Just a cruisey 39-minute drive South of Durban, you’ll be greeted with expansive ocean and beach views for as far as the eye can see.
                 </p>
-                <a href="https://www.highrocksbeachhouse.co.za/gallery" target="blank" class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2">View House</a>
-                <a href="https://www.highrocksbeachhouse.co.za/check-availability" target="blank" class="btn btn-style transparent-btn mt-sm-5 mt-4">Check Availability</a>
+				 <a href="https://www.wheretostay.co.za/widdys-beach-club-self-catering-cottage-widenham" target="blank" class="btn btn-style transparent-btn mt-sm-5 mt-4">Widdy's Beach Club</a>
+                <a href="https://www.highrocksbeachhouse.co.za/gallery" target="blank" class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2">Highrocks Beach House</a>
+               
             </div>
         </div>
     </div>

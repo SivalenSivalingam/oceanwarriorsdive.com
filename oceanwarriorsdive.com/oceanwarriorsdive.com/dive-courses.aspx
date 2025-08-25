@@ -23,7 +23,7 @@
                 <span class="description-title text-center"></span>
                 <h2 class="text-center">Ocean Warriors Dive Course</h2>
                 <p class="text-center"><b>Dive Deeper. Train Harder. Live Wilder.</b><br />
-				With Rae du Plessis, an internationally renowned, underwater photographer and dive instructor with  over 12,000 dives at Aliwal Shoal.<br /> You’ll train with one of the ocean’s finest.<br /><br />
+				Rae du Plessis <a href="https://www.instagram.com/raeraeunderwaterphotography/" target="_blank"><span class="fa fa-instagram"></a> an internationally renowned, underwater photographer and dive instructor with  over 12,000 dives at Aliwal Shoal.<br /> You’ll train with one of the ocean’s finest.<br /><br />
 				<b>Important to Note.</b> Onsite accommodation is provided. The Centre is located on the beach at Widenham with spectacular views and direct access to the beach.  From shared facilities to Luxury en-suites starting at R400/person sharing up to exclusive luxury units at R950/person.<br /><br />
 					<b>Group Bookings - Groups of 3 and larger will receive a 10% discount to the below prices.</b></p>
             </div>
@@ -78,7 +78,7 @@
                                 <div class="col-lg-5">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="images/ocean-warriors-sprouts.jpg" alt="" class="img-fluid">
+                                            <img src="images/ocean-warrior-bubble-maker.jpg" alt="" class="img-fluid">
                                             <div class="floating-card">
                                                 <i class="bi bi-camera"></i>
                                                 <div class="card-content">
@@ -139,7 +139,7 @@
                                             </div>
 											<div class="stat-item">
                                                 <div class="stat-label">Cost</div>
-												<div class="stat-number">R1950</div>
+												<div class="stat-number">R7500</div>
                                             </div>
                                             
                                         </div>
@@ -152,7 +152,7 @@
                                 <div class="col-lg-5">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="images/ocean-warrior-junior.jpg" alt="" class="img-fluid">
+                                            <img src="images/ocean-warrior-open-water-dive.jpg" alt="" class="img-fluid">
                                             
                                         </div>
                                     </div>
@@ -224,7 +224,7 @@
                                 <div class="col-lg-5">
                                     <div class="visual-content">
                                         <div class="main-image">
-                                            <img src="images/ocean-warrior-open-water.jpg" alt="" class="img-fluid">
+                                            <img src="images/ocean-warriors-open-water.jpg" alt="" class="img-fluid">
                                             
                                         </div>
                                     </div>
@@ -573,7 +573,7 @@
                                             </div>
                                              <div class="stat-item">
                                                 <div class="stat-label">Cost</div>
-												<div class="stat-number">R15 500</div>
+												<div class="stat-number">R55 500</div>
                                             </div>
                                         </div>
 

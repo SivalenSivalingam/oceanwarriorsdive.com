@@ -418,16 +418,16 @@
                                 <li><i class="bi bi-check-circle"></i>3 sessions + shared bathroom/person sharing
 
 </li>
-                                <li><i class="bi bi-check-circle"></i>Midweek R
+                                <li><i class="bi bi-check-circle"></i>Midweek R2500
 </li>
-                                <li><i class="bi bi-check-circle"></i>Weekend R
+                                <li><i class="bi bi-check-circle"></i>Weekend R3000
 								</li><div class="full-dotted-line"></div>
                                 <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
 
 </li>
-                                <li><i class="bi bi-check-circle"></i>Midweek R
+        						 <li><i class="bi bi-check-circle"></i>Midweek R3250
 </li>
-								  <li><i class="bi bi-check-circle"></i>Weekend R
+								  <li><i class="bi bi-check-circle"></i>Weekend R3900
 
 </li>
                             </ul>
@@ -461,17 +461,17 @@
 
 
 </li>
-                                <li><i class="bi bi-check-circle"></i>Midweek R
+                                <li><i class="bi bi-check-circle"></i>Midweek R3125
 </li>
-                                <li><i class="bi bi-check-circle"></i>Weekend R
+                                <li><i class="bi bi-check-circle"></i>Weekend R3750
 </li><div class="full-dotted-line"></div>
                                 <li><i class="bi bi-check-circle"></i>3 sessions + ensuite sharing
 
 
 </li>
-                                <li><i class="bi bi-check-circle"></i>Midweek R
+                                <li><i class="bi bi-check-circle"></i>Midweek R4062
 </li>
-								  <li><i class="bi bi-check-circle"></i>Weekend R
+								  <li><i class="bi bi-check-circle"></i>Weekend R4875
 
 </li>
                             </ul>
